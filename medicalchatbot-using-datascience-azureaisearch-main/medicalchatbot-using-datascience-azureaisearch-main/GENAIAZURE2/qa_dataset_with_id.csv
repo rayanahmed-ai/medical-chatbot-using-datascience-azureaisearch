@@ -1,0 +1,15 @@
+id,question,answer
+1,What is the total number of records in the dataset?,1507
+2,What is the mean age of patients in the dataset?,53.3 years
+3,What is the median resting blood pressure (RestingBP) value?,125.0
+4,Which source dataset has the highest representation?,Heart Failure with 905 records
+5,What percentage of patients have heart disease (HeartDisease = 1)?,43.9% (662 out of 1507)
+6,What is the standard deviation of cholesterol levels?,89.08
+7,Which sex appears most frequently in the dataset?,M (male) with 712 occurrences
+8,What is the age range (min to max) of patients?,2 to 90 years
+9,What is the mean cholesterol level across all patients?,215.29
+10,What is the interquartile range (IQR) for age?,15 years (46 to 61)
+11,What percentage of patients have normal fasting blood sugar (FastingBS = 0)?,73.2%
+12,What is the 75th percentile value for cholesterol?,258.5
+13,How many different source datasets are represented?,3
+14,What is the difference between mean and median age?,"1.7 years (mean: 53.3, median: 55)"

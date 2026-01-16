@@ -1,0 +1,1508 @@
+,Age,Sex,RestingBP,Cholesterol,FastingBS,HeartDisease,Source_Dataset
+0,40.0,M,140.0,289.0,0.0,0,Heart Failure
+1,49.0,F,160.0,180.0,0.0,1,Heart Failure
+2,37.0,M,130.0,283.0,0.0,0,Heart Failure
+3,48.0,F,138.0,214.0,0.0,1,Heart Failure
+4,54.0,M,150.0,195.0,0.0,0,Heart Failure
+5,39.0,M,120.0,339.0,0.0,0,Heart Failure
+6,45.0,F,130.0,237.0,0.0,0,Heart Failure
+7,54.0,M,110.0,208.0,0.0,0,Heart Failure
+8,37.0,M,140.0,207.0,0.0,1,Heart Failure
+9,48.0,F,120.0,284.0,0.0,0,Heart Failure
+10,37.0,F,130.0,211.0,0.0,0,Heart Failure
+11,58.0,M,136.0,164.0,0.0,1,Heart Failure
+12,39.0,M,120.0,204.0,0.0,0,Heart Failure
+13,49.0,M,140.0,234.0,0.0,1,Heart Failure
+14,42.0,F,115.0,211.0,0.0,0,Heart Failure
+15,54.0,F,120.0,273.0,0.0,0,Heart Failure
+16,38.0,M,110.0,196.0,0.0,1,Heart Failure
+17,43.0,F,120.0,201.0,0.0,0,Heart Failure
+18,60.0,M,100.0,248.0,0.0,1,Heart Failure
+19,36.0,M,120.0,267.0,0.0,1,Heart Failure
+20,43.0,F,100.0,223.0,0.0,0,Heart Failure
+21,44.0,M,120.0,184.0,0.0,0,Heart Failure
+22,49.0,F,124.0,201.0,0.0,0,Heart Failure
+23,44.0,M,150.0,288.0,0.0,1,Heart Failure
+24,40.0,M,130.0,215.0,0.0,0,Heart Failure
+25,36.0,M,130.0,209.0,0.0,0,Heart Failure
+26,53.0,M,124.0,260.0,0.0,0,Heart Failure
+27,52.0,M,120.0,284.0,0.0,0,Heart Failure
+28,53.0,F,113.0,468.0,0.0,0,Heart Failure
+29,51.0,M,125.0,188.0,0.0,0,Heart Failure
+30,53.0,M,145.0,518.0,0.0,1,Heart Failure
+31,56.0,M,130.0,167.0,0.0,0,Heart Failure
+32,54.0,M,125.0,224.0,0.0,1,Heart Failure
+33,41.0,M,130.0,172.0,0.0,1,Heart Failure
+34,43.0,F,150.0,186.0,0.0,0,Heart Failure
+35,32.0,M,125.0,254.0,0.0,0,Heart Failure
+36,65.0,M,140.0,306.0,1.0,1,Heart Failure
+37,41.0,F,110.0,250.0,0.0,0,Heart Failure
+38,48.0,F,120.0,177.0,1.0,0,Heart Failure
+39,48.0,F,150.0,227.0,0.0,0,Heart Failure
+40,54.0,F,150.0,230.0,0.0,0,Heart Failure
+41,54.0,F,130.0,294.0,0.0,1,Heart Failure
+42,35.0,M,150.0,264.0,0.0,0,Heart Failure
+43,52.0,M,140.0,259.0,0.0,0,Heart Failure
+44,43.0,M,120.0,175.0,0.0,1,Heart Failure
+45,59.0,M,130.0,318.0,0.0,0,Heart Failure
+46,37.0,M,120.0,223.0,0.0,0,Heart Failure
+47,50.0,M,140.0,216.0,0.0,0,Heart Failure
+48,36.0,M,112.0,340.0,0.0,0,Heart Failure
+49,41.0,M,110.0,289.0,0.0,1,Heart Failure
+50,50.0,M,130.0,233.0,0.0,1,Heart Failure
+51,47.0,F,120.0,205.0,0.0,1,Heart Failure
+52,45.0,M,140.0,224.0,1.0,0,Heart Failure
+53,41.0,F,130.0,245.0,0.0,0,Heart Failure
+54,52.0,F,130.0,180.0,0.0,0,Heart Failure
+55,51.0,F,160.0,194.0,0.0,0,Heart Failure
+56,31.0,M,120.0,270.0,0.0,1,Heart Failure
+57,58.0,M,130.0,213.0,0.0,1,Heart Failure
+58,54.0,M,150.0,365.0,0.0,0,Heart Failure
+59,52.0,M,112.0,342.0,0.0,1,Heart Failure
+60,49.0,M,100.0,253.0,0.0,0,Heart Failure
+61,43.0,F,150.0,254.0,0.0,0,Heart Failure
+62,45.0,M,140.0,224.0,0.0,0,Heart Failure
+63,46.0,M,120.0,277.0,0.0,1,Heart Failure
+64,50.0,F,110.0,202.0,0.0,0,Heart Failure
+65,37.0,F,120.0,260.0,0.0,0,Heart Failure
+66,45.0,F,132.0,297.0,0.0,0,Heart Failure
+67,32.0,M,110.0,225.0,0.0,0,Heart Failure
+68,52.0,M,160.0,246.0,0.0,1,Heart Failure
+69,44.0,M,150.0,412.0,0.0,0,Heart Failure
+70,57.0,M,140.0,265.0,0.0,1,Heart Failure
+71,44.0,M,130.0,215.0,0.0,0,Heart Failure
+72,52.0,M,120.0,182.0,0.0,1,Heart Failure
+73,44.0,F,120.0,218.0,0.0,0,Heart Failure
+74,55.0,M,140.0,268.0,0.0,1,Heart Failure
+75,46.0,M,150.0,163.0,0.0,0,Heart Failure
+76,32.0,M,118.0,529.0,0.0,1,Heart Failure
+77,35.0,F,140.0,167.0,0.0,0,Heart Failure
+78,52.0,M,140.0,100.0,0.0,0,Heart Failure
+79,49.0,M,130.0,206.0,0.0,1,Heart Failure
+80,55.0,M,110.0,277.0,0.0,0,Heart Failure
+81,54.0,M,120.0,238.0,0.0,0,Heart Failure
+82,63.0,M,150.0,223.0,0.0,1,Heart Failure
+83,52.0,M,160.0,196.0,0.0,0,Heart Failure
+84,56.0,M,150.0,213.0,1.0,1,Heart Failure
+85,66.0,M,140.0,139.0,0.0,1,Heart Failure
+86,65.0,M,170.0,263.0,1.0,1,Heart Failure
+87,53.0,F,140.0,216.0,0.0,0,Heart Failure
+88,43.0,M,120.0,291.0,0.0,1,Heart Failure
+89,55.0,M,140.0,229.0,0.0,0,Heart Failure
+90,49.0,F,110.0,208.0,0.0,0,Heart Failure
+91,39.0,M,130.0,307.0,0.0,0,Heart Failure
+92,52.0,F,120.0,210.0,0.0,0,Heart Failure
+93,48.0,M,160.0,329.0,0.0,1,Heart Failure
+94,39.0,F,110.0,182.0,0.0,0,Heart Failure
+95,58.0,M,130.0,263.0,0.0,1,Heart Failure
+96,43.0,M,142.0,207.0,0.0,0,Heart Failure
+97,39.0,M,160.0,147.0,1.0,0,Heart Failure
+98,56.0,M,120.0,85.0,0.0,0,Heart Failure
+99,41.0,M,125.0,269.0,0.0,0,Heart Failure
+100,65.0,M,130.0,275.0,0.0,1,Heart Failure
+101,51.0,M,130.0,179.0,0.0,0,Heart Failure
+102,40.0,F,150.0,392.0,0.0,1,Heart Failure
+103,40.0,M,120.0,466.0,1.0,1,Heart Failure
+104,46.0,M,118.0,186.0,0.0,1,Heart Failure
+105,57.0,M,140.0,260.0,1.0,0,Heart Failure
+106,48.0,F,120.0,254.0,0.0,0,Heart Failure
+107,34.0,M,150.0,214.0,0.0,0,Heart Failure
+108,50.0,M,140.0,129.0,0.0,0,Heart Failure
+109,39.0,M,190.0,241.0,0.0,0,Heart Failure
+110,59.0,F,130.0,188.0,0.0,0,Heart Failure
+111,57.0,M,150.0,255.0,0.0,1,Heart Failure
+112,47.0,M,140.0,276.0,1.0,0,Heart Failure
+113,38.0,M,140.0,297.0,0.0,0,Heart Failure
+114,49.0,F,130.0,207.0,0.0,0,Heart Failure
+115,33.0,F,100.0,246.0,0.0,1,Heart Failure
+116,38.0,M,120.0,282.0,0.0,1,Heart Failure
+117,59.0,F,130.0,338.0,1.0,1,Heart Failure
+118,35.0,F,120.0,160.0,0.0,0,Heart Failure
+119,34.0,M,140.0,156.0,0.0,1,Heart Failure
+120,47.0,F,135.0,248.0,1.0,1,Heart Failure
+121,52.0,F,125.0,272.0,0.0,0,Heart Failure
+122,46.0,M,110.0,240.0,0.0,0,Heart Failure
+123,58.0,F,180.0,393.0,0.0,1,Heart Failure
+124,58.0,M,130.0,230.0,0.0,0,Heart Failure
+125,54.0,M,120.0,246.0,0.0,0,Heart Failure
+126,34.0,F,130.0,161.0,0.0,0,Heart Failure
+127,48.0,F,108.0,163.0,0.0,0,Heart Failure
+128,54.0,F,120.0,230.0,1.0,0,Heart Failure
+129,42.0,M,120.0,228.0,0.0,0,Heart Failure
+130,38.0,M,145.0,292.0,0.0,0,Heart Failure
+131,46.0,M,110.0,202.0,0.0,1,Heart Failure
+132,56.0,M,170.0,388.0,0.0,1,Heart Failure
+133,56.0,M,150.0,230.0,0.0,1,Heart Failure
+134,61.0,F,130.0,294.0,0.0,0,Heart Failure
+135,49.0,M,115.0,265.0,0.0,1,Heart Failure
+136,43.0,F,120.0,215.0,0.0,0,Heart Failure
+137,39.0,M,120.0,241.0,0.0,0,Heart Failure
+138,54.0,M,140.0,166.0,0.0,1,Heart Failure
+139,43.0,M,150.0,247.0,0.0,1,Heart Failure
+140,52.0,M,160.0,331.0,0.0,1,Heart Failure
+141,50.0,M,140.0,341.0,0.0,1,Heart Failure
+142,47.0,M,160.0,291.0,0.0,1,Heart Failure
+143,53.0,M,140.0,243.0,0.0,0,Heart Failure
+144,56.0,F,120.0,279.0,0.0,1,Heart Failure
+145,39.0,M,110.0,273.0,0.0,0,Heart Failure
+146,42.0,M,120.0,198.0,0.0,0,Heart Failure
+147,43.0,F,120.0,249.0,0.0,0,Heart Failure
+148,50.0,M,120.0,168.0,0.0,0,Heart Failure
+149,54.0,M,130.0,603.0,1.0,1,Heart Failure
+150,39.0,M,130.0,215.0,0.0,0,Heart Failure
+151,48.0,M,100.0,159.0,0.0,0,Heart Failure
+152,40.0,M,130.0,275.0,0.0,0,Heart Failure
+153,55.0,M,120.0,270.0,0.0,0,Heart Failure
+154,41.0,M,120.0,291.0,0.0,0,Heart Failure
+155,56.0,M,155.0,342.0,1.0,1,Heart Failure
+156,38.0,M,110.0,190.0,0.0,1,Heart Failure
+157,49.0,M,140.0,185.0,0.0,0,Heart Failure
+158,44.0,M,130.0,290.0,0.0,1,Heart Failure
+159,54.0,M,160.0,195.0,0.0,0,Heart Failure
+160,59.0,M,140.0,264.0,1.0,1,Heart Failure
+161,49.0,M,128.0,212.0,0.0,1,Heart Failure
+162,47.0,M,160.0,263.0,0.0,0,Heart Failure
+163,42.0,M,120.0,196.0,0.0,0,Heart Failure
+164,52.0,F,140.0,225.0,0.0,0,Heart Failure
+165,46.0,M,140.0,272.0,1.0,1,Heart Failure
+166,50.0,M,140.0,231.0,0.0,1,Heart Failure
+167,48.0,M,140.0,238.0,0.0,0,Heart Failure
+168,58.0,M,135.0,222.0,0.0,0,Heart Failure
+169,58.0,M,140.0,179.0,0.0,0,Heart Failure
+170,29.0,M,120.0,243.0,0.0,0,Heart Failure
+171,40.0,M,140.0,235.0,0.0,0,Heart Failure
+172,53.0,M,140.0,320.0,0.0,0,Heart Failure
+173,49.0,M,140.0,187.0,0.0,0,Heart Failure
+174,52.0,M,140.0,266.0,0.0,1,Heart Failure
+175,43.0,M,140.0,288.0,0.0,1,Heart Failure
+176,54.0,M,140.0,216.0,0.0,1,Heart Failure
+177,59.0,M,140.0,287.0,0.0,0,Heart Failure
+178,37.0,M,130.0,194.0,0.0,0,Heart Failure
+179,46.0,F,130.0,238.0,0.0,0,Heart Failure
+180,52.0,M,130.0,225.0,0.0,1,Heart Failure
+181,51.0,M,130.0,224.0,0.0,0,Heart Failure
+182,52.0,M,140.0,404.0,0.0,1,Heart Failure
+183,46.0,M,110.0,238.0,0.0,0,Heart Failure
+184,54.0,F,160.0,312.0,0.0,0,Heart Failure
+185,58.0,M,160.0,211.0,1.0,1,Heart Failure
+186,58.0,M,130.0,251.0,0.0,0,Heart Failure
+187,41.0,M,120.0,237.0,1.0,1,Heart Failure
+188,50.0,F,120.0,328.0,0.0,0,Heart Failure
+189,53.0,M,180.0,285.0,0.0,1,Heart Failure
+190,46.0,M,180.0,280.0,0.0,0,Heart Failure
+191,50.0,M,170.0,209.0,0.0,0,Heart Failure
+192,48.0,M,130.0,245.0,0.0,0,Heart Failure
+193,45.0,M,135.0,192.0,0.0,0,Heart Failure
+194,41.0,F,125.0,184.0,0.0,0,Heart Failure
+195,62.0,F,160.0,193.0,0.0,0,Heart Failure
+196,49.0,M,120.0,297.0,0.0,0,Heart Failure
+197,42.0,M,150.0,268.0,0.0,0,Heart Failure
+198,53.0,M,120.0,246.0,0.0,1,Heart Failure
+199,57.0,F,130.0,308.0,0.0,0,Heart Failure
+200,47.0,M,110.0,249.0,0.0,0,Heart Failure
+201,46.0,M,120.0,230.0,0.0,0,Heart Failure
+202,42.0,M,160.0,147.0,0.0,0,Heart Failure
+203,31.0,F,100.0,219.0,0.0,0,Heart Failure
+204,56.0,M,130.0,184.0,0.0,0,Heart Failure
+205,50.0,M,150.0,215.0,0.0,0,Heart Failure
+206,35.0,M,120.0,308.0,0.0,0,Heart Failure
+207,35.0,M,110.0,257.0,0.0,1,Heart Failure
+208,28.0,M,130.0,132.0,0.0,0,Heart Failure
+209,54.0,M,125.0,216.0,0.0,1,Heart Failure
+210,48.0,M,106.0,263.0,1.0,1,Heart Failure
+211,50.0,F,140.0,288.0,0.0,1,Heart Failure
+212,56.0,M,130.0,276.0,0.0,0,Heart Failure
+213,56.0,F,130.0,219.0,0.0,0,Heart Failure
+214,47.0,M,150.0,226.0,0.0,1,Heart Failure
+215,30.0,F,170.0,237.0,0.0,0,Heart Failure
+216,39.0,M,110.0,280.0,0.0,1,Heart Failure
+217,54.0,M,120.0,217.0,0.0,0,Heart Failure
+218,55.0,M,140.0,196.0,0.0,0,Heart Failure
+219,29.0,M,140.0,263.0,0.0,0,Heart Failure
+220,46.0,M,130.0,222.0,0.0,1,Heart Failure
+221,51.0,F,160.0,303.0,0.0,1,Heart Failure
+222,48.0,F,120.0,195.0,0.0,0,Heart Failure
+223,33.0,M,120.0,298.0,0.0,0,Heart Failure
+224,55.0,M,120.0,256.0,1.0,0,Heart Failure
+225,50.0,M,145.0,264.0,0.0,1,Heart Failure
+226,53.0,M,120.0,195.0,0.0,0,Heart Failure
+227,38.0,M,92.0,117.0,0.0,1,Heart Failure
+228,41.0,M,120.0,295.0,0.0,0,Heart Failure
+229,37.0,F,130.0,173.0,0.0,0,Heart Failure
+230,37.0,M,130.0,315.0,0.0,0,Heart Failure
+231,40.0,M,130.0,281.0,0.0,0,Heart Failure
+232,38.0,F,120.0,275.0,0.0,0,Heart Failure
+233,41.0,M,112.0,250.0,0.0,0,Heart Failure
+234,54.0,F,140.0,309.0,0.0,0,Heart Failure
+235,39.0,M,120.0,200.0,0.0,0,Heart Failure
+236,41.0,M,120.0,336.0,0.0,1,Heart Failure
+237,55.0,M,140.0,295.0,0.0,1,Heart Failure
+238,48.0,M,160.0,355.0,0.0,1,Heart Failure
+239,48.0,M,160.0,193.0,0.0,1,Heart Failure
+240,55.0,M,145.0,326.0,0.0,0,Heart Failure
+241,54.0,M,200.0,198.0,0.0,1,Heart Failure
+242,55.0,M,160.0,292.0,1.0,1,Heart Failure
+243,43.0,F,120.0,266.0,0.0,0,Heart Failure
+244,48.0,M,160.0,268.0,0.0,1,Heart Failure
+245,54.0,M,120.0,171.0,0.0,0,Heart Failure
+246,54.0,M,120.0,237.0,0.0,1,Heart Failure
+247,48.0,M,122.0,275.0,1.0,1,Heart Failure
+248,45.0,M,130.0,219.0,0.0,1,Heart Failure
+249,49.0,M,130.0,341.0,0.0,1,Heart Failure
+250,44.0,M,135.0,491.0,0.0,1,Heart Failure
+251,48.0,M,120.0,260.0,0.0,1,Heart Failure
+252,61.0,M,125.0,292.0,0.0,0,Heart Failure
+253,62.0,M,140.0,271.0,0.0,0,Heart Failure
+254,55.0,M,145.0,248.0,0.0,1,Heart Failure
+255,53.0,F,120.0,274.0,0.0,0,Heart Failure
+256,55.0,F,130.0,394.0,0.0,0,Heart Failure
+257,36.0,M,150.0,160.0,0.0,0,Heart Failure
+258,51.0,F,150.0,200.0,0.0,0,Heart Failure
+259,55.0,F,122.0,320.0,0.0,0,Heart Failure
+260,46.0,M,140.0,275.0,0.0,0,Heart Failure
+261,54.0,F,120.0,221.0,0.0,0,Heart Failure
+262,46.0,M,120.0,231.0,0.0,1,Heart Failure
+263,59.0,M,130.0,126.0,0.0,1,Heart Failure
+264,47.0,M,140.0,193.0,0.0,1,Heart Failure
+265,54.0,M,160.0,305.0,0.0,0,Heart Failure
+266,52.0,M,130.0,298.0,0.0,1,Heart Failure
+267,34.0,M,98.0,220.0,0.0,0,Heart Failure
+268,54.0,M,130.0,242.0,0.0,1,Heart Failure
+269,47.0,F,130.0,235.0,0.0,0,Heart Failure
+270,45.0,M,120.0,225.0,0.0,0,Heart Failure
+271,32.0,F,105.0,198.0,0.0,0,Heart Failure
+272,55.0,M,140.0,201.0,0.0,1,Heart Failure
+273,55.0,M,120.0,220.0,0.0,0,Heart Failure
+274,45.0,F,180.0,295.0,0.0,0,Heart Failure
+275,59.0,M,180.0,213.0,0.0,0,Heart Failure
+276,51.0,M,135.0,160.0,0.0,1,Heart Failure
+277,52.0,M,170.0,223.0,0.0,1,Heart Failure
+278,57.0,F,180.0,347.0,0.0,0,Heart Failure
+279,54.0,F,130.0,253.0,0.0,0,Heart Failure
+280,60.0,M,120.0,246.0,0.0,0,Heart Failure
+281,49.0,M,150.0,222.0,0.0,1,Heart Failure
+282,51.0,F,130.0,220.0,0.0,0,Heart Failure
+283,55.0,F,110.0,344.0,0.0,0,Heart Failure
+284,42.0,M,140.0,358.0,0.0,0,Heart Failure
+285,51.0,F,110.0,190.0,0.0,0,Heart Failure
+286,59.0,M,140.0,169.0,0.0,0,Heart Failure
+287,53.0,M,120.0,181.0,0.0,0,Heart Failure
+288,48.0,F,133.0,308.0,0.0,0,Heart Failure
+289,36.0,M,120.0,166.0,0.0,0,Heart Failure
+290,48.0,M,110.0,211.0,0.0,0,Heart Failure
+291,47.0,F,140.0,257.0,0.0,0,Heart Failure
+292,53.0,M,130.0,182.0,0.0,0,Heart Failure
+293,65.0,M,115.0,0.0,0.0,1,Heart Failure
+294,32.0,M,95.0,0.0,1.0,1,Heart Failure
+295,61.0,M,105.0,0.0,1.0,1,Heart Failure
+296,50.0,M,145.0,0.0,1.0,1,Heart Failure
+297,57.0,M,110.0,0.0,1.0,1,Heart Failure
+298,51.0,M,110.0,0.0,1.0,1,Heart Failure
+299,47.0,M,110.0,0.0,1.0,1,Heart Failure
+300,60.0,M,160.0,0.0,1.0,1,Heart Failure
+301,55.0,M,140.0,0.0,0.0,0,Heart Failure
+302,53.0,M,125.0,0.0,1.0,1,Heart Failure
+303,62.0,F,120.0,0.0,1.0,1,Heart Failure
+304,51.0,M,95.0,0.0,1.0,1,Heart Failure
+305,51.0,F,120.0,0.0,1.0,1,Heart Failure
+306,55.0,M,115.0,0.0,1.0,1,Heart Failure
+307,53.0,M,130.0,0.0,0.0,0,Heart Failure
+308,58.0,M,115.0,0.0,1.0,1,Heart Failure
+309,57.0,M,95.0,0.0,1.0,1,Heart Failure
+310,65.0,M,155.0,0.0,0.0,0,Heart Failure
+311,60.0,M,125.0,0.0,1.0,1,Heart Failure
+312,41.0,M,125.0,0.0,1.0,1,Heart Failure
+313,34.0,M,115.0,0.0,1.0,1,Heart Failure
+314,53.0,M,80.0,0.0,0.0,0,Heart Failure
+315,74.0,M,145.0,0.0,1.0,1,Heart Failure
+316,57.0,M,105.0,0.0,1.0,1,Heart Failure
+317,56.0,M,140.0,0.0,1.0,1,Heart Failure
+318,61.0,M,130.0,0.0,1.0,1,Heart Failure
+319,68.0,M,145.0,0.0,1.0,1,Heart Failure
+320,59.0,M,125.0,0.0,1.0,1,Heart Failure
+321,63.0,M,100.0,0.0,1.0,1,Heart Failure
+322,38.0,F,105.0,0.0,1.0,1,Heart Failure
+323,62.0,M,115.0,0.0,1.0,1,Heart Failure
+324,46.0,M,100.0,0.0,1.0,1,Heart Failure
+325,42.0,M,105.0,0.0,1.0,1,Heart Failure
+326,45.0,M,110.0,0.0,0.0,0,Heart Failure
+328,52.0,M,95.0,0.0,1.0,1,Heart Failure
+329,60.0,M,130.0,0.0,1.0,1,Heart Failure
+330,60.0,M,115.0,0.0,1.0,1,Heart Failure
+331,56.0,M,115.0,0.0,1.0,1,Heart Failure
+332,38.0,M,100.0,0.0,0.0,0,Heart Failure
+333,40.0,M,95.0,0.0,1.0,1,Heart Failure
+334,51.0,M,130.0,0.0,1.0,1,Heart Failure
+335,62.0,M,120.0,0.0,1.0,1,Heart Failure
+336,72.0,M,160.0,0.0,0.0,0,Heart Failure
+337,63.0,M,150.0,0.0,1.0,1,Heart Failure
+338,63.0,M,140.0,0.0,1.0,1,Heart Failure
+339,64.0,F,95.0,0.0,1.0,1,Heart Failure
+340,43.0,M,100.0,0.0,1.0,1,Heart Failure
+341,64.0,M,110.0,0.0,1.0,1,Heart Failure
+342,61.0,M,110.0,0.0,1.0,1,Heart Failure
+343,52.0,M,130.0,0.0,1.0,1,Heart Failure
+344,51.0,M,120.0,0.0,1.0,1,Heart Failure
+345,69.0,M,135.0,0.0,0.0,1,Heart Failure
+346,59.0,M,120.0,0.0,0.0,1,Heart Failure
+347,48.0,M,115.0,0.0,1.0,1,Heart Failure
+348,69.0,M,137.0,0.0,0.0,1,Heart Failure
+349,36.0,M,110.0,0.0,1.0,1,Heart Failure
+350,53.0,M,120.0,0.0,1.0,1,Heart Failure
+351,43.0,M,140.0,0.0,0.0,1,Heart Failure
+352,56.0,M,120.0,0.0,0.0,1,Heart Failure
+353,58.0,M,130.0,0.0,0.0,1,Heart Failure
+354,55.0,M,120.0,0.0,0.0,1,Heart Failure
+355,67.0,M,145.0,0.0,0.0,1,Heart Failure
+356,46.0,M,115.0,0.0,0.0,1,Heart Failure
+357,53.0,M,120.0,0.0,0.0,1,Heart Failure
+358,38.0,M,115.0,0.0,0.0,1,Heart Failure
+359,53.0,M,105.0,0.0,0.0,1,Heart Failure
+360,62.0,M,160.0,0.0,0.0,1,Heart Failure
+361,47.0,M,160.0,0.0,0.0,1,Heart Failure
+362,56.0,M,155.0,0.0,0.0,1,Heart Failure
+364,56.0,M,120.0,0.0,0.0,0,Heart Failure
+365,64.0,F,200.0,0.0,0.0,1,Heart Failure
+366,61.0,M,150.0,0.0,0.0,1,Heart Failure
+367,68.0,M,135.0,0.0,0.0,1,Heart Failure
+368,57.0,M,140.0,0.0,0.0,1,Heart Failure
+369,63.0,M,150.0,0.0,0.0,1,Heart Failure
+370,60.0,M,135.0,0.0,0.0,1,Heart Failure
+371,66.0,M,150.0,0.0,0.0,1,Heart Failure
+372,63.0,M,185.0,0.0,0.0,1,Heart Failure
+373,59.0,M,135.0,0.0,0.0,1,Heart Failure
+374,61.0,M,125.0,0.0,0.0,1,Heart Failure
+375,73.0,F,160.0,0.0,0.0,1,Heart Failure
+376,47.0,M,155.0,0.0,0.0,1,Heart Failure
+377,65.0,M,160.0,0.0,1.0,1,Heart Failure
+378,70.0,M,140.0,0.0,1.0,1,Heart Failure
+379,50.0,M,120.0,0.0,0.0,1,Heart Failure
+380,60.0,M,160.0,0.0,0.0,1,Heart Failure
+381,50.0,M,115.0,0.0,0.0,1,Heart Failure
+382,43.0,M,115.0,0.0,0.0,1,Heart Failure
+383,38.0,F,110.0,0.0,0.0,1,Heart Failure
+384,54.0,M,120.0,0.0,0.0,1,Heart Failure
+386,42.0,M,145.0,0.0,0.0,1,Heart Failure
+387,53.0,M,130.0,0.0,0.0,1,Heart Failure
+388,55.0,M,140.0,0.0,0.0,1,Heart Failure
+389,61.0,M,160.0,0.0,1.0,1,Heart Failure
+390,51.0,M,140.0,0.0,0.0,1,Heart Failure
+391,70.0,M,115.0,0.0,0.0,1,Heart Failure
+392,61.0,M,130.0,0.0,0.0,1,Heart Failure
+393,38.0,M,150.0,0.0,1.0,1,Heart Failure
+394,57.0,M,160.0,0.0,1.0,1,Heart Failure
+395,38.0,M,135.0,0.0,1.0,1,Heart Failure
+396,62.0,F,140.0,0.0,1.0,1,Heart Failure
+397,58.0,M,170.0,0.0,1.0,1,Heart Failure
+398,52.0,M,165.0,0.0,1.0,1,Heart Failure
+399,61.0,M,200.0,0.0,1.0,1,Heart Failure
+400,50.0,F,160.0,0.0,1.0,1,Heart Failure
+402,65.0,M,145.0,0.0,1.0,1,Heart Failure
+403,52.0,M,135.0,0.0,1.0,1,Heart Failure
+405,35.0,M,120.0,0.0,1.0,1,Heart Failure
+406,57.0,M,140.0,0.0,1.0,1,Heart Failure
+408,59.0,M,110.0,0.0,1.0,1,Heart Failure
+409,53.0,M,160.0,0.0,1.0,1,Heart Failure
+410,62.0,M,150.0,0.0,1.0,1,Heart Failure
+411,54.0,M,180.0,0.0,1.0,1,Heart Failure
+412,56.0,M,125.0,0.0,1.0,1,Heart Failure
+414,54.0,M,130.0,0.0,1.0,1,Heart Failure
+415,66.0,F,155.0,0.0,1.0,1,Heart Failure
+416,63.0,M,140.0,260.0,0.0,1,Heart Failure
+417,44.0,M,130.0,209.0,0.0,0,Heart Failure
+418,60.0,M,132.0,218.0,0.0,1,Heart Failure
+419,55.0,M,142.0,228.0,0.0,1,Heart Failure
+420,66.0,M,110.0,213.0,1.0,0,Heart Failure
+421,66.0,M,120.0,0.0,0.0,0,Heart Failure
+422,65.0,M,150.0,236.0,1.0,1,Heart Failure
+423,60.0,M,180.0,0.0,0.0,0,Heart Failure
+424,60.0,M,120.0,0.0,1.0,1,Heart Failure
+425,60.0,M,160.0,267.0,1.0,1,Heart Failure
+426,56.0,M,126.0,166.0,0.0,0,Heart Failure
+427,59.0,M,140.0,0.0,0.0,1,Heart Failure
+428,62.0,M,110.0,0.0,0.0,1,Heart Failure
+429,63.0,M,133.0,0.0,0.0,1,Heart Failure
+430,57.0,M,128.0,0.0,1.0,1,Heart Failure
+431,62.0,M,120.0,220.0,0.0,0,Heart Failure
+432,63.0,M,170.0,177.0,0.0,1,Heart Failure
+433,46.0,M,110.0,236.0,0.0,1,Heart Failure
+434,63.0,M,126.0,0.0,0.0,0,Heart Failure
+435,60.0,M,152.0,0.0,0.0,0,Heart Failure
+436,58.0,M,116.0,0.0,0.0,1,Heart Failure
+437,64.0,M,120.0,0.0,1.0,1,Heart Failure
+438,63.0,M,130.0,0.0,0.0,1,Heart Failure
+439,74.0,M,138.0,0.0,0.0,0,Heart Failure
+440,52.0,M,128.0,0.0,0.0,1,Heart Failure
+441,69.0,M,130.0,0.0,1.0,1,Heart Failure
+442,51.0,M,128.0,0.0,1.0,1,Heart Failure
+443,60.0,M,130.0,186.0,1.0,1,Heart Failure
+444,56.0,M,120.0,100.0,0.0,1,Heart Failure
+445,55.0,M,136.0,228.0,0.0,1,Heart Failure
+446,54.0,M,130.0,0.0,0.0,1,Heart Failure
+447,77.0,M,124.0,171.0,0.0,1,Heart Failure
+448,63.0,M,160.0,230.0,1.0,1,Heart Failure
+449,55.0,M,0.0,0.0,0.0,1,Heart Failure
+450,52.0,M,122.0,0.0,0.0,1,Heart Failure
+451,64.0,M,144.0,0.0,0.0,1,Heart Failure
+452,60.0,M,140.0,281.0,0.0,1,Heart Failure
+453,60.0,M,120.0,0.0,0.0,0,Heart Failure
+454,58.0,M,136.0,203.0,1.0,1,Heart Failure
+455,59.0,M,154.0,0.0,0.0,0,Heart Failure
+456,61.0,M,120.0,0.0,0.0,1,Heart Failure
+457,40.0,M,125.0,0.0,1.0,1,Heart Failure
+458,61.0,M,134.0,0.0,1.0,1,Heart Failure
+459,41.0,M,104.0,0.0,0.0,0,Heart Failure
+460,57.0,M,139.0,277.0,1.0,1,Heart Failure
+461,63.0,M,136.0,0.0,0.0,1,Heart Failure
+462,59.0,M,122.0,233.0,0.0,1,Heart Failure
+463,51.0,M,128.0,0.0,0.0,0,Heart Failure
+464,59.0,M,131.0,0.0,0.0,1,Heart Failure
+465,42.0,M,134.0,240.0,0.0,0,Heart Failure
+467,63.0,F,132.0,0.0,0.0,0,Heart Failure
+468,62.0,M,152.0,153.0,0.0,1,Heart Failure
+469,56.0,M,124.0,224.0,1.0,0,Heart Failure
+470,53.0,M,126.0,0.0,0.0,1,Heart Failure
+471,68.0,M,138.0,0.0,0.0,1,Heart Failure
+472,53.0,M,154.0,0.0,1.0,1,Heart Failure
+473,60.0,M,141.0,316.0,1.0,1,Heart Failure
+474,62.0,M,131.0,0.0,0.0,0,Heart Failure
+475,59.0,M,178.0,0.0,1.0,1,Heart Failure
+476,51.0,M,132.0,218.0,1.0,0,Heart Failure
+478,57.0,M,130.0,311.0,1.0,1,Heart Failure
+479,56.0,M,170.0,0.0,0.0,1,Heart Failure
+480,58.0,M,126.0,0.0,1.0,1,Heart Failure
+481,69.0,M,140.0,0.0,1.0,1,Heart Failure
+482,67.0,M,142.0,270.0,1.0,1,Heart Failure
+483,58.0,M,120.0,0.0,0.0,1,Heart Failure
+484,65.0,M,134.0,0.0,0.0,1,Heart Failure
+485,63.0,M,139.0,217.0,1.0,1,Heart Failure
+486,55.0,M,110.0,214.0,1.0,0,Heart Failure
+487,57.0,M,140.0,214.0,0.0,1,Heart Failure
+488,65.0,M,140.0,252.0,0.0,0,Heart Failure
+489,54.0,M,136.0,220.0,0.0,1,Heart Failure
+490,72.0,M,120.0,214.0,0.0,1,Heart Failure
+491,75.0,M,170.0,203.0,1.0,1,Heart Failure
+492,49.0,M,130.0,0.0,0.0,1,Heart Failure
+493,51.0,M,137.0,339.0,0.0,1,Heart Failure
+494,60.0,M,142.0,216.0,0.0,1,Heart Failure
+495,64.0,F,142.0,276.0,0.0,1,Heart Failure
+496,58.0,M,132.0,458.0,1.0,0,Heart Failure
+497,61.0,M,146.0,241.0,0.0,1,Heart Failure
+498,67.0,M,160.0,384.0,1.0,1,Heart Failure
+499,62.0,M,135.0,297.0,0.0,1,Heart Failure
+500,65.0,M,136.0,248.0,0.0,1,Heart Failure
+501,63.0,M,130.0,308.0,0.0,1,Heart Failure
+502,69.0,M,140.0,208.0,0.0,1,Heart Failure
+503,51.0,M,132.0,227.0,1.0,0,Heart Failure
+504,62.0,M,158.0,210.0,1.0,1,Heart Failure
+505,55.0,M,136.0,245.0,1.0,1,Heart Failure
+506,75.0,M,136.0,225.0,0.0,1,Heart Failure
+507,40.0,M,106.0,240.0,0.0,0,Heart Failure
+508,67.0,M,120.0,0.0,1.0,1,Heart Failure
+509,58.0,M,110.0,198.0,0.0,1,Heart Failure
+510,60.0,M,136.0,195.0,0.0,0,Heart Failure
+511,63.0,M,160.0,267.0,1.0,1,Heart Failure
+512,35.0,M,123.0,161.0,0.0,0,Heart Failure
+513,62.0,M,112.0,258.0,0.0,1,Heart Failure
+514,43.0,M,122.0,0.0,0.0,1,Heart Failure
+515,63.0,M,130.0,0.0,1.0,0,Heart Failure
+516,68.0,M,150.0,195.0,1.0,1,Heart Failure
+517,65.0,M,150.0,235.0,0.0,1,Heart Failure
+518,48.0,M,102.0,0.0,1.0,1,Heart Failure
+519,63.0,M,96.0,305.0,0.0,1,Heart Failure
+520,64.0,M,130.0,223.0,0.0,0,Heart Failure
+521,61.0,M,120.0,282.0,0.0,1,Heart Failure
+522,50.0,M,144.0,349.0,0.0,1,Heart Failure
+523,59.0,M,124.0,160.0,0.0,1,Heart Failure
+524,55.0,M,150.0,160.0,0.0,0,Heart Failure
+525,45.0,M,130.0,236.0,0.0,0,Heart Failure
+526,65.0,M,144.0,312.0,0.0,1,Heart Failure
+527,61.0,M,139.0,283.0,0.0,0,Heart Failure
+528,49.0,M,131.0,142.0,0.0,1,Heart Failure
+529,72.0,M,143.0,211.0,0.0,1,Heart Failure
+530,50.0,M,133.0,218.0,0.0,1,Heart Failure
+531,64.0,M,143.0,306.0,1.0,1,Heart Failure
+532,55.0,M,116.0,186.0,1.0,1,Heart Failure
+533,63.0,M,110.0,252.0,0.0,1,Heart Failure
+534,59.0,M,125.0,222.0,0.0,1,Heart Failure
+535,56.0,M,130.0,0.0,0.0,1,Heart Failure
+536,62.0,M,133.0,0.0,1.0,1,Heart Failure
+537,74.0,M,150.0,258.0,1.0,1,Heart Failure
+538,54.0,M,130.0,202.0,1.0,1,Heart Failure
+539,57.0,M,110.0,197.0,0.0,0,Heart Failure
+540,62.0,M,138.0,204.0,0.0,1,Heart Failure
+541,76.0,M,104.0,113.0,0.0,1,Heart Failure
+542,54.0,F,138.0,274.0,0.0,1,Heart Failure
+543,70.0,M,170.0,192.0,0.0,1,Heart Failure
+544,61.0,F,140.0,298.0,1.0,0,Heart Failure
+545,48.0,M,132.0,272.0,0.0,0,Heart Failure
+546,48.0,M,132.0,220.0,1.0,1,Heart Failure
+547,61.0,M,142.0,200.0,1.0,1,Heart Failure
+548,66.0,M,112.0,261.0,0.0,1,Heart Failure
+549,68.0,M,139.0,181.0,1.0,0,Heart Failure
+550,55.0,M,172.0,260.0,0.0,1,Heart Failure
+552,71.0,M,144.0,221.0,0.0,1,Heart Failure
+553,74.0,M,145.0,216.0,1.0,1,Heart Failure
+554,53.0,M,155.0,175.0,1.0,0,Heart Failure
+555,58.0,M,150.0,219.0,0.0,1,Heart Failure
+556,75.0,M,160.0,310.0,1.0,0,Heart Failure
+557,56.0,M,137.0,208.0,1.0,1,Heart Failure
+558,58.0,M,137.0,232.0,0.0,1,Heart Failure
+559,64.0,M,134.0,273.0,0.0,1,Heart Failure
+560,54.0,M,133.0,203.0,0.0,0,Heart Failure
+561,54.0,M,132.0,182.0,0.0,0,Heart Failure
+562,59.0,M,140.0,274.0,0.0,0,Heart Failure
+563,55.0,M,135.0,204.0,1.0,1,Heart Failure
+564,57.0,M,144.0,270.0,1.0,1,Heart Failure
+565,61.0,M,141.0,292.0,0.0,1,Heart Failure
+566,41.0,M,150.0,171.0,0.0,0,Heart Failure
+567,71.0,M,130.0,221.0,0.0,1,Heart Failure
+568,38.0,M,110.0,289.0,0.0,1,Heart Failure
+569,55.0,M,158.0,217.0,0.0,1,Heart Failure
+570,56.0,M,128.0,223.0,0.0,1,Heart Failure
+571,69.0,M,140.0,110.0,1.0,1,Heart Failure
+572,64.0,M,150.0,193.0,0.0,1,Heart Failure
+573,72.0,M,160.0,123.0,1.0,1,Heart Failure
+574,69.0,M,142.0,210.0,1.0,1,Heart Failure
+575,56.0,M,137.0,282.0,1.0,1,Heart Failure
+576,62.0,M,139.0,170.0,0.0,1,Heart Failure
+577,67.0,M,146.0,369.0,0.0,1,Heart Failure
+578,57.0,M,156.0,173.0,0.0,1,Heart Failure
+579,69.0,M,145.0,289.0,1.0,1,Heart Failure
+580,51.0,M,131.0,152.0,1.0,1,Heart Failure
+581,48.0,M,140.0,208.0,0.0,1,Heart Failure
+582,69.0,M,122.0,216.0,1.0,1,Heart Failure
+583,69.0,M,142.0,271.0,0.0,0,Heart Failure
+584,64.0,M,141.0,244.0,1.0,1,Heart Failure
+585,57.0,M,180.0,285.0,1.0,1,Heart Failure
+586,53.0,M,124.0,243.0,0.0,1,Heart Failure
+587,37.0,M,118.0,240.0,0.0,0,Heart Failure
+588,67.0,M,140.0,219.0,0.0,1,Heart Failure
+589,74.0,M,140.0,237.0,1.0,1,Heart Failure
+590,63.0,M,136.0,165.0,0.0,0,Heart Failure
+591,58.0,M,100.0,213.0,0.0,0,Heart Failure
+592,61.0,M,190.0,287.0,1.0,1,Heart Failure
+593,64.0,M,130.0,258.0,1.0,1,Heart Failure
+594,58.0,M,160.0,256.0,1.0,1,Heart Failure
+596,57.0,M,122.0,264.0,0.0,1,Heart Failure
+597,55.0,M,133.0,185.0,0.0,0,Heart Failure
+598,55.0,M,120.0,226.0,0.0,1,Heart Failure
+599,56.0,M,130.0,203.0,1.0,1,Heart Failure
+600,57.0,M,130.0,207.0,0.0,0,Heart Failure
+601,61.0,M,140.0,284.0,0.0,1,Heart Failure
+602,61.0,M,120.0,337.0,0.0,1,Heart Failure
+603,74.0,M,155.0,310.0,0.0,1,Heart Failure
+604,68.0,M,134.0,254.0,1.0,0,Heart Failure
+605,51.0,F,114.0,258.0,1.0,0,Heart Failure
+606,62.0,M,160.0,254.0,1.0,1,Heart Failure
+607,53.0,M,144.0,300.0,1.0,1,Heart Failure
+608,62.0,M,158.0,170.0,0.0,1,Heart Failure
+609,46.0,M,134.0,310.0,0.0,1,Heart Failure
+610,54.0,F,127.0,333.0,1.0,1,Heart Failure
+611,62.0,M,135.0,139.0,0.0,0,Heart Failure
+612,55.0,M,122.0,223.0,1.0,1,Heart Failure
+613,58.0,M,140.0,385.0,1.0,0,Heart Failure
+614,62.0,M,120.0,254.0,0.0,1,Heart Failure
+615,70.0,M,130.0,322.0,0.0,1,Heart Failure
+616,67.0,F,115.0,564.0,0.0,0,Heart Failure
+617,57.0,M,124.0,261.0,0.0,1,Heart Failure
+618,64.0,M,128.0,263.0,0.0,0,Heart Failure
+619,74.0,F,120.0,269.0,0.0,0,Heart Failure
+620,65.0,M,120.0,177.0,0.0,0,Heart Failure
+621,56.0,M,130.0,256.0,1.0,1,Heart Failure
+622,59.0,M,110.0,239.0,0.0,1,Heart Failure
+623,60.0,M,140.0,293.0,0.0,1,Heart Failure
+624,63.0,F,150.0,407.0,0.0,1,Heart Failure
+625,59.0,M,135.0,234.0,0.0,0,Heart Failure
+626,53.0,M,142.0,226.0,0.0,0,Heart Failure
+627,44.0,M,140.0,235.0,0.0,0,Heart Failure
+628,61.0,M,134.0,234.0,0.0,1,Heart Failure
+629,57.0,F,128.0,303.0,0.0,0,Heart Failure
+630,71.0,F,112.0,149.0,0.0,0,Heart Failure
+631,46.0,M,140.0,311.0,0.0,1,Heart Failure
+632,53.0,M,140.0,203.0,1.0,1,Heart Failure
+633,64.0,M,110.0,211.0,0.0,0,Heart Failure
+634,40.0,M,140.0,199.0,0.0,0,Heart Failure
+635,67.0,M,120.0,229.0,0.0,1,Heart Failure
+637,43.0,M,115.0,303.0,0.0,0,Heart Failure
+638,47.0,M,112.0,204.0,0.0,0,Heart Failure
+639,54.0,F,132.0,288.0,1.0,0,Heart Failure
+640,48.0,F,130.0,275.0,0.0,0,Heart Failure
+641,46.0,F,138.0,243.0,0.0,0,Heart Failure
+642,51.0,F,120.0,295.0,0.0,0,Heart Failure
+643,58.0,M,112.0,230.0,0.0,1,Heart Failure
+644,71.0,F,110.0,265.0,1.0,0,Heart Failure
+645,57.0,M,128.0,229.0,0.0,1,Heart Failure
+646,66.0,M,160.0,228.0,0.0,0,Heart Failure
+647,37.0,F,120.0,215.0,0.0,0,Heart Failure
+648,59.0,M,170.0,326.0,0.0,1,Heart Failure
+649,50.0,M,144.0,200.0,0.0,1,Heart Failure
+650,48.0,M,130.0,256.0,1.0,1,Heart Failure
+651,61.0,M,140.0,207.0,0.0,1,Heart Failure
+652,59.0,M,160.0,273.0,0.0,1,Heart Failure
+653,42.0,M,130.0,180.0,0.0,0,Heart Failure
+654,48.0,M,122.0,222.0,0.0,0,Heart Failure
+655,40.0,M,152.0,223.0,0.0,1,Heart Failure
+656,62.0,F,124.0,209.0,0.0,0,Heart Failure
+657,44.0,M,130.0,233.0,0.0,0,Heart Failure
+658,46.0,M,101.0,197.0,1.0,0,Heart Failure
+659,59.0,M,126.0,218.0,1.0,1,Heart Failure
+660,58.0,M,140.0,211.0,1.0,0,Heart Failure
+661,49.0,M,118.0,149.0,0.0,1,Heart Failure
+662,44.0,M,110.0,197.0,0.0,1,Heart Failure
+663,66.0,M,160.0,246.0,0.0,1,Heart Failure
+664,65.0,F,150.0,225.0,0.0,1,Heart Failure
+665,42.0,M,136.0,315.0,0.0,1,Heart Failure
+666,52.0,M,128.0,205.0,1.0,0,Heart Failure
+667,65.0,F,140.0,417.0,1.0,0,Heart Failure
+668,63.0,F,140.0,195.0,0.0,0,Heart Failure
+669,45.0,F,130.0,234.0,0.0,0,Heart Failure
+670,41.0,F,105.0,198.0,0.0,0,Heart Failure
+671,61.0,M,138.0,166.0,0.0,1,Heart Failure
+672,60.0,F,120.0,178.0,1.0,0,Heart Failure
+673,59.0,F,174.0,249.0,0.0,1,Heart Failure
+674,62.0,M,120.0,281.0,0.0,1,Heart Failure
+675,57.0,M,150.0,126.0,1.0,0,Heart Failure
+676,51.0,F,130.0,305.0,0.0,1,Heart Failure
+677,44.0,M,120.0,226.0,0.0,0,Heart Failure
+678,60.0,F,150.0,240.0,0.0,0,Heart Failure
+679,63.0,M,145.0,233.0,1.0,0,Heart Failure
+680,57.0,M,150.0,276.0,0.0,1,Heart Failure
+681,51.0,M,140.0,261.0,0.0,0,Heart Failure
+682,58.0,F,136.0,319.0,1.0,1,Heart Failure
+683,44.0,F,118.0,242.0,0.0,0,Heart Failure
+684,47.0,M,108.0,243.0,0.0,1,Heart Failure
+685,61.0,M,120.0,260.0,0.0,1,Heart Failure
+686,57.0,F,120.0,354.0,0.0,0,Heart Failure
+687,70.0,M,156.0,245.0,0.0,0,Heart Failure
+688,76.0,F,140.0,197.0,0.0,0,Heart Failure
+689,67.0,F,106.0,223.0,0.0,0,Heart Failure
+690,45.0,M,142.0,309.0,0.0,1,Heart Failure
+691,45.0,M,104.0,208.0,0.0,0,Heart Failure
+692,39.0,F,94.0,199.0,0.0,0,Heart Failure
+693,42.0,F,120.0,209.0,0.0,0,Heart Failure
+694,56.0,M,120.0,236.0,0.0,0,Heart Failure
+695,58.0,M,146.0,218.0,0.0,1,Heart Failure
+696,35.0,M,120.0,198.0,0.0,1,Heart Failure
+697,58.0,M,150.0,270.0,0.0,1,Heart Failure
+698,41.0,M,130.0,214.0,0.0,0,Heart Failure
+699,57.0,M,110.0,201.0,0.0,0,Heart Failure
+700,42.0,M,148.0,244.0,0.0,0,Heart Failure
+701,62.0,M,128.0,208.0,1.0,0,Heart Failure
+702,59.0,M,178.0,270.0,0.0,0,Heart Failure
+703,41.0,F,126.0,306.0,0.0,0,Heart Failure
+704,50.0,M,150.0,243.0,0.0,1,Heart Failure
+705,59.0,M,140.0,221.0,0.0,0,Heart Failure
+706,61.0,F,130.0,330.0,0.0,1,Heart Failure
+707,54.0,M,124.0,266.0,0.0,1,Heart Failure
+708,54.0,M,110.0,206.0,0.0,1,Heart Failure
+709,52.0,M,125.0,212.0,0.0,1,Heart Failure
+710,47.0,M,110.0,275.0,0.0,1,Heart Failure
+711,66.0,M,120.0,302.0,0.0,0,Heart Failure
+712,58.0,M,100.0,234.0,0.0,1,Heart Failure
+713,64.0,F,140.0,313.0,0.0,0,Heart Failure
+714,50.0,F,120.0,244.0,0.0,0,Heart Failure
+715,44.0,F,108.0,141.0,0.0,0,Heart Failure
+716,67.0,M,120.0,237.0,0.0,1,Heart Failure
+717,49.0,F,130.0,269.0,0.0,0,Heart Failure
+718,57.0,M,165.0,289.0,1.0,1,Heart Failure
+719,63.0,M,130.0,254.0,0.0,1,Heart Failure
+720,48.0,M,124.0,274.0,0.0,1,Heart Failure
+721,51.0,M,100.0,222.0,0.0,0,Heart Failure
+722,60.0,F,150.0,258.0,0.0,1,Heart Failure
+723,59.0,M,140.0,177.0,0.0,1,Heart Failure
+724,45.0,F,112.0,160.0,0.0,0,Heart Failure
+725,55.0,F,180.0,327.0,0.0,1,Heart Failure
+726,41.0,M,110.0,235.0,0.0,0,Heart Failure
+727,60.0,F,158.0,305.0,0.0,1,Heart Failure
+728,54.0,F,135.0,304.0,1.0,0,Heart Failure
+729,42.0,M,120.0,295.0,0.0,0,Heart Failure
+730,49.0,F,134.0,271.0,0.0,0,Heart Failure
+731,46.0,M,120.0,249.0,0.0,1,Heart Failure
+732,56.0,F,200.0,288.0,1.0,1,Heart Failure
+733,66.0,F,150.0,226.0,0.0,0,Heart Failure
+734,56.0,M,130.0,283.0,1.0,1,Heart Failure
+735,49.0,M,120.0,188.0,0.0,1,Heart Failure
+736,54.0,M,122.0,286.0,0.0,1,Heart Failure
+737,57.0,M,152.0,274.0,0.0,1,Heart Failure
+738,65.0,F,160.0,360.0,0.0,0,Heart Failure
+739,54.0,M,125.0,273.0,0.0,0,Heart Failure
+740,54.0,F,160.0,201.0,0.0,0,Heart Failure
+741,62.0,M,120.0,267.0,0.0,1,Heart Failure
+742,52.0,F,136.0,196.0,0.0,0,Heart Failure
+743,52.0,M,134.0,201.0,0.0,0,Heart Failure
+744,60.0,M,117.0,230.0,1.0,1,Heart Failure
+745,63.0,F,108.0,269.0,0.0,1,Heart Failure
+746,66.0,M,112.0,212.0,0.0,1,Heart Failure
+747,42.0,M,140.0,226.0,0.0,0,Heart Failure
+748,64.0,M,120.0,246.0,0.0,1,Heart Failure
+749,54.0,M,150.0,232.0,0.0,0,Heart Failure
+750,46.0,F,142.0,177.0,0.0,0,Heart Failure
+751,67.0,F,152.0,277.0,0.0,0,Heart Failure
+752,56.0,M,125.0,249.0,1.0,1,Heart Failure
+753,34.0,F,118.0,210.0,0.0,0,Heart Failure
+754,57.0,M,132.0,207.0,0.0,0,Heart Failure
+755,64.0,M,145.0,212.0,0.0,1,Heart Failure
+756,59.0,M,138.0,271.0,0.0,0,Heart Failure
+757,50.0,M,140.0,233.0,0.0,1,Heart Failure
+758,51.0,M,125.0,213.0,0.0,0,Heart Failure
+759,54.0,M,192.0,283.0,0.0,1,Heart Failure
+760,53.0,M,123.0,282.0,0.0,1,Heart Failure
+761,52.0,M,112.0,230.0,0.0,1,Heart Failure
+762,40.0,M,110.0,167.0,0.0,1,Heart Failure
+763,58.0,M,132.0,224.0,0.0,1,Heart Failure
+764,41.0,F,112.0,268.0,0.0,0,Heart Failure
+766,50.0,F,120.0,219.0,0.0,0,Heart Failure
+767,54.0,F,108.0,267.0,0.0,0,Heart Failure
+768,64.0,F,130.0,303.0,0.0,0,Heart Failure
+769,51.0,F,130.0,256.0,0.0,0,Heart Failure
+770,46.0,F,105.0,204.0,0.0,0,Heart Failure
+771,55.0,M,140.0,217.0,0.0,1,Heart Failure
+772,45.0,M,128.0,308.0,0.0,0,Heart Failure
+773,56.0,M,120.0,193.0,0.0,0,Heart Failure
+774,66.0,F,178.0,228.0,1.0,1,Heart Failure
+775,38.0,M,120.0,231.0,0.0,1,Heart Failure
+776,62.0,F,150.0,244.0,0.0,1,Heart Failure
+777,55.0,M,130.0,262.0,0.0,0,Heart Failure
+778,58.0,M,128.0,259.0,0.0,1,Heart Failure
+779,43.0,M,110.0,211.0,0.0,0,Heart Failure
+780,64.0,F,180.0,325.0,0.0,0,Heart Failure
+781,50.0,F,110.0,254.0,0.0,0,Heart Failure
+782,53.0,M,130.0,197.0,1.0,0,Heart Failure
+783,45.0,F,138.0,236.0,0.0,0,Heart Failure
+784,65.0,M,138.0,282.0,1.0,1,Heart Failure
+785,69.0,M,160.0,234.0,1.0,0,Heart Failure
+786,69.0,M,140.0,254.0,0.0,1,Heart Failure
+787,67.0,M,100.0,299.0,0.0,1,Heart Failure
+788,68.0,F,120.0,211.0,0.0,0,Heart Failure
+789,34.0,M,118.0,182.0,0.0,0,Heart Failure
+790,62.0,F,138.0,294.0,1.0,1,Heart Failure
+791,51.0,M,140.0,298.0,0.0,1,Heart Failure
+792,46.0,M,150.0,231.0,0.0,1,Heart Failure
+793,67.0,M,125.0,254.0,1.0,1,Heart Failure
+794,50.0,M,129.0,196.0,0.0,0,Heart Failure
+795,42.0,M,120.0,240.0,1.0,0,Heart Failure
+796,56.0,F,134.0,409.0,0.0,1,Heart Failure
+797,41.0,M,110.0,172.0,0.0,1,Heart Failure
+798,42.0,F,102.0,265.0,0.0,0,Heart Failure
+799,53.0,M,130.0,246.0,1.0,0,Heart Failure
+800,43.0,M,130.0,315.0,0.0,0,Heart Failure
+801,56.0,M,132.0,184.0,0.0,1,Heart Failure
+802,52.0,M,108.0,233.0,1.0,0,Heart Failure
+803,62.0,F,140.0,394.0,0.0,0,Heart Failure
+804,70.0,M,160.0,269.0,0.0,1,Heart Failure
+805,54.0,M,140.0,239.0,0.0,0,Heart Failure
+806,70.0,M,145.0,174.0,0.0,1,Heart Failure
+807,54.0,M,108.0,309.0,0.0,0,Heart Failure
+808,35.0,M,126.0,282.0,0.0,1,Heart Failure
+809,48.0,M,124.0,255.0,1.0,0,Heart Failure
+810,55.0,F,135.0,250.0,0.0,0,Heart Failure
+811,58.0,F,100.0,248.0,0.0,0,Heart Failure
+812,54.0,F,110.0,214.0,0.0,0,Heart Failure
+813,69.0,F,140.0,239.0,0.0,0,Heart Failure
+814,77.0,M,125.0,304.0,0.0,1,Heart Failure
+815,68.0,M,118.0,277.0,0.0,0,Heart Failure
+816,58.0,M,125.0,300.0,0.0,1,Heart Failure
+817,60.0,M,125.0,258.0,0.0,1,Heart Failure
+818,51.0,M,140.0,299.0,0.0,1,Heart Failure
+819,55.0,M,160.0,289.0,0.0,1,Heart Failure
+820,52.0,M,152.0,298.0,1.0,0,Heart Failure
+821,60.0,F,102.0,318.0,0.0,0,Heart Failure
+822,58.0,M,105.0,240.0,0.0,0,Heart Failure
+823,64.0,M,125.0,309.0,0.0,1,Heart Failure
+824,37.0,M,130.0,250.0,0.0,0,Heart Failure
+825,59.0,M,170.0,288.0,0.0,1,Heart Failure
+826,51.0,M,125.0,245.0,1.0,0,Heart Failure
+827,43.0,F,122.0,213.0,0.0,0,Heart Failure
+828,58.0,M,128.0,216.0,0.0,1,Heart Failure
+829,29.0,M,130.0,204.0,0.0,0,Heart Failure
+830,41.0,F,130.0,204.0,0.0,0,Heart Failure
+831,63.0,F,135.0,252.0,0.0,0,Heart Failure
+832,51.0,M,94.0,227.0,0.0,0,Heart Failure
+833,54.0,M,120.0,258.0,0.0,0,Heart Failure
+834,44.0,M,120.0,220.0,0.0,0,Heart Failure
+835,54.0,M,110.0,239.0,0.0,1,Heart Failure
+836,65.0,M,135.0,254.0,0.0,1,Heart Failure
+837,57.0,M,150.0,168.0,0.0,0,Heart Failure
+838,63.0,M,130.0,330.0,1.0,1,Heart Failure
+839,35.0,F,138.0,183.0,0.0,0,Heart Failure
+840,41.0,M,135.0,203.0,0.0,0,Heart Failure
+841,62.0,F,130.0,263.0,0.0,1,Heart Failure
+842,43.0,F,132.0,341.0,1.0,1,Heart Failure
+843,58.0,F,150.0,283.0,1.0,0,Heart Failure
+844,52.0,M,118.0,186.0,0.0,0,Heart Failure
+845,61.0,F,145.0,307.0,0.0,1,Heart Failure
+846,39.0,M,118.0,219.0,0.0,1,Heart Failure
+847,45.0,M,115.0,260.0,0.0,0,Heart Failure
+848,52.0,M,128.0,255.0,0.0,1,Heart Failure
+849,62.0,M,130.0,231.0,0.0,0,Heart Failure
+850,62.0,F,160.0,164.0,0.0,1,Heart Failure
+851,53.0,F,138.0,234.0,0.0,0,Heart Failure
+852,43.0,M,120.0,177.0,0.0,1,Heart Failure
+853,47.0,M,138.0,257.0,0.0,0,Heart Failure
+854,52.0,M,120.0,325.0,0.0,0,Heart Failure
+855,68.0,M,180.0,274.0,1.0,1,Heart Failure
+856,39.0,M,140.0,321.0,0.0,0,Heart Failure
+857,53.0,F,130.0,264.0,0.0,0,Heart Failure
+858,62.0,F,140.0,268.0,0.0,1,Heart Failure
+859,51.0,F,140.0,308.0,0.0,0,Heart Failure
+860,60.0,M,130.0,253.0,0.0,1,Heart Failure
+861,65.0,M,110.0,248.0,0.0,1,Heart Failure
+862,65.0,F,155.0,269.0,0.0,0,Heart Failure
+863,60.0,M,140.0,185.0,0.0,1,Heart Failure
+864,60.0,M,145.0,282.0,0.0,1,Heart Failure
+865,54.0,M,120.0,188.0,0.0,1,Heart Failure
+866,44.0,M,130.0,219.0,0.0,0,Heart Failure
+867,44.0,M,112.0,290.0,0.0,1,Heart Failure
+868,51.0,M,110.0,175.0,0.0,0,Heart Failure
+869,59.0,M,150.0,212.0,1.0,0,Heart Failure
+870,71.0,F,160.0,302.0,0.0,0,Heart Failure
+871,61.0,M,150.0,243.0,1.0,0,Heart Failure
+872,55.0,M,132.0,353.0,0.0,1,Heart Failure
+873,64.0,M,140.0,335.0,0.0,1,Heart Failure
+874,43.0,M,150.0,247.0,0.0,0,Heart Failure
+875,58.0,F,120.0,340.0,0.0,0,Heart Failure
+876,60.0,M,130.0,206.0,0.0,1,Heart Failure
+877,58.0,M,120.0,284.0,0.0,1,Heart Failure
+878,49.0,M,130.0,266.0,0.0,0,Heart Failure
+879,48.0,M,110.0,229.0,0.0,1,Heart Failure
+880,52.0,M,172.0,199.0,1.0,0,Heart Failure
+881,44.0,M,120.0,263.0,0.0,0,Heart Failure
+882,56.0,F,140.0,294.0,0.0,0,Heart Failure
+883,57.0,M,140.0,192.0,0.0,0,Heart Failure
+884,67.0,M,160.0,286.0,0.0,1,Heart Failure
+885,53.0,F,128.0,216.0,0.0,0,Heart Failure
+886,52.0,M,138.0,223.0,0.0,0,Heart Failure
+887,43.0,M,132.0,247.0,1.0,1,Heart Failure
+888,52.0,M,128.0,204.0,1.0,1,Heart Failure
+889,59.0,M,134.0,204.0,0.0,1,Heart Failure
+890,64.0,M,170.0,227.0,0.0,0,Heart Failure
+891,66.0,F,146.0,278.0,0.0,0,Heart Failure
+892,39.0,F,138.0,220.0,0.0,0,Heart Failure
+893,57.0,M,154.0,232.0,0.0,1,Heart Failure
+894,58.0,F,130.0,197.0,0.0,0,Heart Failure
+895,57.0,M,110.0,335.0,0.0,1,Heart Failure
+896,47.0,M,130.0,253.0,0.0,0,Heart Failure
+897,55.0,F,128.0,205.0,0.0,1,Heart Failure
+898,35.0,M,122.0,192.0,0.0,0,Heart Failure
+899,61.0,M,148.0,203.0,0.0,1,Heart Failure
+900,58.0,M,114.0,318.0,0.0,1,Heart Failure
+901,58.0,F,170.0,225.0,1.0,1,Heart Failure
+902,58.0,M,125.0,220.0,0.0,0,Heart Failure
+903,56.0,M,130.0,221.0,0.0,0,Heart Failure
+904,56.0,M,120.0,240.0,0.0,0,Heart Failure
+905,67.0,M,152.0,212.0,0.0,1,Heart Failure
+906,55.0,F,132.0,342.0,0.0,0,Heart Failure
+907,44.0,M,120.0,169.0,0.0,1,Heart Failure
+908,63.0,M,140.0,187.0,0.0,1,Heart Failure
+909,63.0,F,124.0,197.0,0.0,1,Heart Failure
+910,41.0,M,120.0,157.0,0.0,0,Heart Failure
+911,59.0,M,164.0,176.0,1.0,1,Heart Failure
+912,57.0,F,140.0,241.0,0.0,1,Heart Failure
+913,45.0,M,110.0,264.0,0.0,1,Heart Failure
+914,68.0,M,144.0,193.0,1.0,1,Heart Failure
+915,57.0,M,130.0,131.0,0.0,1,Heart Failure
+916,57.0,F,130.0,236.0,0.0,1,Heart Failure
+917,38.0,M,138.0,175.0,0.0,0,Heart Failure
+918,48.0,,80.0,228.0,0.0,ckd,Kidney Disease
+919,7.0,,50.0,228.0,0.0,ckd,Kidney Disease
+920,62.0,,80.0,228.0,3.0,ckd,Kidney Disease
+921,48.0,,70.0,228.0,0.0,ckd,Kidney Disease
+922,51.0,,80.0,228.0,0.0,ckd,Kidney Disease
+923,60.0,,90.0,228.0,0.0,ckd,Kidney Disease
+924,68.0,,70.0,228.0,0.0,ckd,Kidney Disease
+925,24.0,,124.0,228.0,4.0,ckd,Kidney Disease
+926,52.0,,100.0,228.0,0.0,ckd,Kidney Disease
+927,53.0,,90.0,228.0,0.0,ckd,Kidney Disease
+928,50.0,,60.0,228.0,4.0,ckd,Kidney Disease
+929,63.0,,70.0,228.0,0.0,ckd,Kidney Disease
+930,68.0,,70.0,228.0,1.0,ckd,Kidney Disease
+932,68.0,,80.0,228.0,2.0,ckd,Kidney Disease
+933,40.0,,80.0,228.0,0.0,ckd,Kidney Disease
+934,47.0,,70.0,228.0,0.0,ckd,Kidney Disease
+935,47.0,,80.0,228.0,0.0,ckd,Kidney Disease
+936,60.0,,100.0,228.0,3.0,ckd,Kidney Disease
+937,62.0,,60.0,228.0,0.0,ckd,Kidney Disease
+938,61.0,,80.0,228.0,0.0,ckd,Kidney Disease
+941,21.0,,70.0,228.0,0.0,ckd,Kidney Disease
+942,42.0,,100.0,228.0,0.0,ckd,Kidney Disease
+943,61.0,,60.0,228.0,0.0,ckd,Kidney Disease
+944,75.0,,80.0,228.0,0.0,ckd,Kidney Disease
+945,69.0,,70.0,228.0,4.0,ckd,Kidney Disease
+946,75.0,,70.0,228.0,3.0,ckd,Kidney Disease
+948,,,70.0,228.0,0.0,ckd,Kidney Disease
+949,73.0,,90.0,228.0,0.0,ckd,Kidney Disease
+950,61.0,,90.0,228.0,1.0,ckd,Kidney Disease
+951,60.0,,100.0,228.0,0.0,ckd,Kidney Disease
+952,70.0,,70.0,228.0,0.0,ckd,Kidney Disease
+953,65.0,,90.0,228.0,1.0,ckd,Kidney Disease
+954,76.0,,70.0,228.0,0.0,ckd,Kidney Disease
+955,72.0,,80.0,228.0,0.0,ckd	,Kidney Disease
+956,69.0,,80.0,228.0,0.0,ckd,Kidney Disease
+957,82.0,,80.0,228.0,2.0,ckd,Kidney Disease
+958,46.0,,90.0,228.0,0.0,ckd,Kidney Disease
+959,45.0,,70.0,228.0,0.0,ckd,Kidney Disease
+960,47.0,,100.0,228.0,0.0,ckd,Kidney Disease
+961,35.0,,80.0,228.0,0.0,ckd,Kidney Disease
+962,54.0,,80.0,228.0,0.0,ckd,Kidney Disease
+965,11.0,,80.0,228.0,0.0,ckd,Kidney Disease
+966,73.0,,70.0,228.0,0.0,ckd,Kidney Disease
+967,60.0,,70.0,228.0,0.0,ckd,Kidney Disease
+968,53.0,,60.0,228.0,0.0,ckd,Kidney Disease
+969,54.0,,100.0,228.0,0.0,ckd,Kidney Disease
+971,62.0,,80.0,228.0,5.0,ckd,Kidney Disease
+972,63.0,,80.0,228.0,2.0,ckd,Kidney Disease
+974,76.0,,70.0,228.0,4.0,ckd,Kidney Disease
+975,76.0,,90.0,228.0,0.0,ckd,Kidney Disease
+976,73.0,,80.0,228.0,0.0,ckd,Kidney Disease
+977,59.0,,100.0,228.0,0.0,ckd,Kidney Disease
+978,67.0,,90.0,228.0,0.0,ckd,Kidney Disease
+979,67.0,,80.0,228.0,3.0,ckd,Kidney Disease
+980,15.0,,60.0,228.0,0.0,ckd,Kidney Disease
+981,46.0,,70.0,228.0,0.0,ckd,Kidney Disease
+982,55.0,,80.0,228.0,0.0,ckd,Kidney Disease
+983,44.0,,90.0,228.0,0.0,ckd,Kidney Disease
+984,67.0,,70.0,228.0,0.0,ckd,Kidney Disease
+985,45.0,,80.0,228.0,0.0,ckd,Kidney Disease
+986,65.0,,70.0,228.0,0.0,ckd,Kidney Disease
+987,26.0,,70.0,228.0,4.0,ckd,Kidney Disease
+988,61.0,,80.0,228.0,4.0,ckd,Kidney Disease
+989,46.0,,60.0,228.0,0.0,ckd,Kidney Disease
+990,64.0,,90.0,228.0,3.0,ckd,Kidney Disease
+991,,,100.0,228.0,0.0,ckd,Kidney Disease
+992,56.0,,90.0,228.0,0.0,ckd,Kidney Disease
+993,5.0,,124.0,228.0,0.0,ckd,Kidney Disease
+996,70.0,,80.0,228.0,0.0,ckd,Kidney Disease
+997,56.0,,80.0,228.0,0.0,ckd,Kidney Disease
+998,74.0,,80.0,228.0,0.0,ckd,Kidney Disease
+999,45.0,,90.0,228.0,0.0,ckd,Kidney Disease
+1000,38.0,,70.0,228.0,0.0,ckd,Kidney Disease
+1002,59.0,,70.0,228.0,0.0,ckd,Kidney Disease
+1005,70.0,,100.0,228.0,0.0,ckd,Kidney Disease
+1006,58.0,,110.0,228.0,0.0,ckd,Kidney Disease
+1007,50.0,,70.0,228.0,0.0,ckd,Kidney Disease
+1008,63.0,,100.0,228.0,2.0,ckd,Kidney Disease
+1009,56.0,,70.0,228.0,1.0,ckd,Kidney Disease
+1010,71.0,,70.0,228.0,0.0,ckd,Kidney Disease
+1011,73.0,,100.0,228.0,2.0,ckd,Kidney Disease
+1013,62.0,,90.0,228.0,0.0,ckd,Kidney Disease
+1014,60.0,,80.0,228.0,1.0,ckd,Kidney Disease
+1015,65.0,,60.0,228.0,0.0,ckd,Kidney Disease
+1016,50.0,,140.0,228.0,0.0,ckd,Kidney Disease
+1017,56.0,,180.0,228.0,4.0,ckd,Kidney Disease
+1018,34.0,,70.0,228.0,0.0,ckd,Kidney Disease
+1019,71.0,,90.0,228.0,0.0,ckd,Kidney Disease
+1020,17.0,,60.0,228.0,0.0,ckd,Kidney Disease
+1022,55.0,,90.0,228.0,0.0,ckd,Kidney Disease
+1023,65.0,,80.0,228.0,0.0,ckd,Kidney Disease
+1024,50.0,,90.0,228.0,0.0,ckd,Kidney Disease
+1025,55.0,,100.0,228.0,4.0,ckd,Kidney Disease
+1027,54.0,,70.0,228.0,0.0,ckd,Kidney Disease
+1028,63.0,,90.0,228.0,0.0,ckd,Kidney Disease
+1029,65.0,,80.0,228.0,3.0,ckd,Kidney Disease
+1030,,,60.0,228.0,0.0,ckd,Kidney Disease
+1031,61.0,,90.0,228.0,2.0,ckd,Kidney Disease
+1032,12.0,,60.0,228.0,0.0,ckd,Kidney Disease
+1036,55.0,,70.0,228.0,0.0,ckd,Kidney Disease
+1038,72.0,,90.0,228.0,3.0,ckd,Kidney Disease
+1039,54.0,,60.0,228.0,0.0,ckd,Kidney Disease
+1041,43.0,,80.0,228.0,3.0,ckd,Kidney Disease
+1042,65.0,,100.0,228.0,0.0,ckd,Kidney Disease
+1043,72.0,,90.0,228.0,0.0,ckd,Kidney Disease
+1044,70.0,,90.0,228.0,0.0,ckd,Kidney Disease
+1045,71.0,,60.0,228.0,0.0,ckd,Kidney Disease
+1046,52.0,,90.0,228.0,3.0,ckd,Kidney Disease
+1047,75.0,,70.0,228.0,0.0,ckd,Kidney Disease
+1049,5.0,,50.0,228.0,0.0,ckd,Kidney Disease
+1050,50.0,,124.0,228.0,0.0,ckd,Kidney Disease
+1053,48.0,,80.0,228.0,2.0,ckd,Kidney Disease
+1055,45.0,,60.0,228.0,0.0,ckd,Kidney Disease
+1056,73.0,,124.0,228.0,0.0,ckd,Kidney Disease
+1057,41.0,,70.0,228.0,0.0,ckd,Kidney Disease
+1061,41.0,,80.0,228.0,4.0,ckd,Kidney Disease
+1063,57.0,,90.0,228.0,0.0,ckd,Kidney Disease
+1064,53.0,,100.0,228.0,3.0,ckd,Kidney Disease
+1065,60.0,,60.0,228.0,1.0,ckd,Kidney Disease
+1066,69.0,,60.0,228.0,0.0,ckd,Kidney Disease
+1068,8.0,,60.0,228.0,0.0,ckd,Kidney Disease
+1070,39.0,,70.0,228.0,0.0,ckd,Kidney Disease
+1071,55.0,,90.0,228.0,1.0,ckd,Kidney Disease
+1072,56.0,,90.0,228.0,3.0,ckd,Kidney Disease
+1074,66.0,,90.0,228.0,0.0,ckd,Kidney Disease
+1075,62.0,,70.0,228.0,0.0,ckd,Kidney Disease
+1076,71.0,,60.0,228.0,2.0,ckd,Kidney Disease
+1077,59.0,,80.0,228.0,0.0,ckd,Kidney Disease
+1078,81.0,,60.0,228.0,0.0,ckd,Kidney Disease
+1079,62.0,,124.0,228.0,0.0,ckd,Kidney Disease
+1081,46.0,,80.0,228.0,0.0,ckd,Kidney Disease
+1082,14.0,,124.0,228.0,0.0,ckd,Kidney Disease
+1083,60.0,,80.0,228.0,2.0,ckd,Kidney Disease
+1084,27.0,,60.0,228.0,0.0,ckd,Kidney Disease
+1086,65.0,,70.0,228.0,4.0,ckd,Kidney Disease
+1087,,,70.0,228.0,2.0,ckd,Kidney Disease
+1088,66.0,,70.0,228.0,5.0,ckd,Kidney Disease
+1089,83.0,,70.0,228.0,0.0,ckd,Kidney Disease
+1090,62.0,,80.0,228.0,2.0,ckd,Kidney Disease
+1091,17.0,,70.0,228.0,0.0,ckd,Kidney Disease
+1093,60.0,,50.0,228.0,0.0,ckd,Kidney Disease
+1094,21.0,,90.0,228.0,0.0,ckd,Kidney Disease
+1095,65.0,,80.0,228.0,1.0,ckd,Kidney Disease
+1096,42.0,,90.0,228.0,0.0,ckd,Kidney Disease
+1098,73.0,,90.0,228.0,4.0,ckd,Kidney Disease
+1101,30.0,,70.0,228.0,0.0,ckd,Kidney Disease
+1102,54.0,,60.0,228.0,2.0,ckd,Kidney Disease
+1103,4.0,,124.0,228.0,0.0,ckd,Kidney Disease
+1104,8.0,,50.0,228.0,0.0,ckd,Kidney Disease
+1105,3.0,,124.0,228.0,0.0,ckd,Kidney Disease
+1106,8.0,,124.0,228.0,0.0,ckd,Kidney Disease
+1107,64.0,,60.0,228.0,1.0,ckd,Kidney Disease
+1108,6.0,,60.0,228.0,0.0,ckd,Kidney Disease
+1110,46.0,,110.0,228.0,0.0,ckd,Kidney Disease
+1111,32.0,,90.0,228.0,0.0,ckd,Kidney Disease
+1112,80.0,,70.0,228.0,0.0,ckd,Kidney Disease
+1113,70.0,,90.0,228.0,1.0,ckd,Kidney Disease
+1114,49.0,,100.0,228.0,0.0,ckd,Kidney Disease
+1115,57.0,,80.0,228.0,0.0,ckd,Kidney Disease
+1116,59.0,,100.0,228.0,2.0,ckd,Kidney Disease
+1118,90.0,,90.0,228.0,0.0,ckd,Kidney Disease
+1119,64.0,,70.0,228.0,0.0,ckd,Kidney Disease
+1120,78.0,,60.0,228.0,0.0,ckd,Kidney Disease
+1121,,,90.0,228.0,0.0,ckd,Kidney Disease
+1122,65.0,,90.0,228.0,2.0,ckd,Kidney Disease
+1123,61.0,,70.0,228.0,0.0,ckd,Kidney Disease
+1126,67.0,,80.0,228.0,0.0,ckd,Kidney Disease
+1127,19.0,,70.0,228.0,0.0,ckd,Kidney Disease
+1129,54.0,,120.0,228.0,0.0,ckd,Kidney Disease
+1130,40.0,,70.0,228.0,4.0,ckd,Kidney Disease
+1131,55.0,,80.0,228.0,1.0,ckd,Kidney Disease
+1132,68.0,,80.0,228.0,0.0,ckd,Kidney Disease
+1133,2.0,,124.0,228.0,0.0,ckd,Kidney Disease
+1135,63.0,,100.0,228.0,0.0,ckd,Kidney Disease
+1136,33.0,,90.0,228.0,0.0,ckd,Kidney Disease
+1137,68.0,,90.0,228.0,0.0,ckd,Kidney Disease
+1138,36.0,,80.0,228.0,0.0,ckd,Kidney Disease
+1139,66.0,,70.0,228.0,0.0,ckd,Kidney Disease
+1140,74.0,,60.0,228.0,0.0,ckd,Kidney Disease
+1141,71.0,,90.0,228.0,3.0,ckd,Kidney Disease
+1142,34.0,,60.0,228.0,0.0,ckd,Kidney Disease
+1143,60.0,,90.0,228.0,5.0,ckd,Kidney Disease
+1144,64.0,,100.0,228.0,2.0,ckd,Kidney Disease
+1147,59.0,,50.0,228.0,0.0,ckd,Kidney Disease
+1148,65.0,,60.0,228.0,0.0,ckd	,Kidney Disease
+1151,51.0,,100.0,228.0,0.0,ckd,Kidney Disease
+1152,37.0,,100.0,228.0,0.0,ckd,Kidney Disease
+1155,80.0,,70.0,228.0,2.0,ckd,Kidney Disease
+1156,72.0,,100.0,228.0,0.0,ckd,Kidney Disease
+1157,34.0,,90.0,228.0,0.0,ckd,Kidney Disease
+1159,57.0,,70.0,228.0,0.0,ckd,Kidney Disease
+1160,69.0,,70.0,228.0,3.0,ckd,Kidney Disease
+1161,62.0,,90.0,228.0,1.0,ckd,Kidney Disease
+1162,64.0,,90.0,228.0,2.0,ckd,Kidney Disease
+1163,48.0,,100.0,228.0,0.0,ckd,Kidney Disease
+1164,48.0,,110.0,228.0,0.0,ckd,Kidney Disease
+1165,54.0,,90.0,228.0,0.0,ckd,Kidney Disease
+1166,59.0,,70.0,228.0,3.0,ckd,Kidney Disease
+1167,56.0,,90.0,228.0,1.0,ckd,Kidney Disease
+1168,40.0,,80.0,228.0,0.0,notckd,Kidney Disease
+1169,23.0,,80.0,228.0,0.0,notckd,Kidney Disease
+1170,45.0,,80.0,228.0,0.0,notckd,Kidney Disease
+1171,57.0,,80.0,228.0,0.0,notckd,Kidney Disease
+1172,51.0,,60.0,228.0,0.0,notckd,Kidney Disease
+1173,34.0,,80.0,228.0,0.0,notckd,Kidney Disease
+1174,60.0,,80.0,228.0,0.0,notckd,Kidney Disease
+1175,38.0,,60.0,228.0,0.0,notckd,Kidney Disease
+1176,42.0,,80.0,228.0,0.0,notckd,Kidney Disease
+1177,35.0,,80.0,228.0,0.0,notckd,Kidney Disease
+1178,30.0,,80.0,228.0,0.0,notckd,Kidney Disease
+1179,49.0,,80.0,228.0,0.0,notckd,Kidney Disease
+1180,55.0,,80.0,228.0,0.0,notckd,Kidney Disease
+1183,50.0,,80.0,228.0,0.0,notckd,Kidney Disease
+1185,48.0,,80.0,228.0,0.0,notckd,Kidney Disease
+1186,,,80.0,228.0,0.0,notckd,Kidney Disease
+1187,25.0,,80.0,228.0,0.0,notckd,Kidney Disease
+1190,56.0,,80.0,228.0,0.0,notckd,Kidney Disease
+1191,47.0,,80.0,228.0,0.0,notckd,Kidney Disease
+1192,19.0,,80.0,228.0,0.0,notckd,Kidney Disease
+1193,52.0,,80.0,228.0,0.0,notckd,Kidney Disease
+1194,20.0,,60.0,228.0,0.0,notckd,Kidney Disease
+1195,46.0,,60.0,228.0,0.0,notckd,Kidney Disease
+1196,48.0,,60.0,228.0,0.0,notckd,Kidney Disease
+1197,24.0,,70.0,228.0,0.0,notckd,Kidney Disease
+1200,20.0,,70.0,228.0,0.0,notckd,Kidney Disease
+1201,60.0,,70.0,228.0,0.0,notckd,Kidney Disease
+1202,33.0,,80.0,228.0,0.0,notckd,Kidney Disease
+1203,66.0,,70.0,228.0,0.0,notckd,Kidney Disease
+1204,71.0,,70.0,228.0,0.0,notckd,Kidney Disease
+1205,39.0,,70.0,228.0,0.0,notckd,Kidney Disease
+1206,56.0,,70.0,228.0,0.0,notckd,Kidney Disease
+1207,42.0,,70.0,228.0,0.0,notckd,Kidney Disease
+1208,54.0,,70.0,228.0,0.0,notckd,Kidney Disease
+1211,50.0,,124.0,228.0,0.0,notckd,Kidney Disease
+1212,75.0,,60.0,228.0,0.0,notckd,Kidney Disease
+1213,44.0,,70.0,228.0,0.0,notckd,Kidney Disease
+1214,41.0,,70.0,228.0,0.0,notckd,Kidney Disease
+1215,53.0,,60.0,228.0,0.0,notckd,Kidney Disease
+1216,34.0,,60.0,228.0,0.0,notckd,Kidney Disease
+1217,73.0,,60.0,228.0,0.0,notckd,Kidney Disease
+1218,45.0,,60.0,228.0,0.0,notckd,Kidney Disease
+1219,44.0,,60.0,228.0,0.0,notckd,Kidney Disease
+1220,29.0,,70.0,228.0,0.0,notckd,Kidney Disease
+1221,55.0,,70.0,228.0,0.0,notckd,Kidney Disease
+1223,41.0,,80.0,228.0,0.0,notckd,Kidney Disease
+1225,47.0,,60.0,228.0,0.0,notckd,Kidney Disease
+1226,43.0,,80.0,228.0,0.0,notckd,Kidney Disease
+1229,56.0,,60.0,228.0,0.0,notckd,Kidney Disease
+1230,80.0,,70.0,228.0,0.0,notckd,Kidney Disease
+1234,35.0,,124.0,228.0,0.0,notckd,Kidney Disease
+1235,58.0,,70.0,228.0,0.0,notckd,Kidney Disease
+1236,61.0,,70.0,228.0,0.0,notckd,Kidney Disease
+1237,30.0,,60.0,228.0,0.0,notckd,Kidney Disease
+1238,57.0,,60.0,228.0,0.0,notckd,Kidney Disease
+1239,65.0,,60.0,228.0,0.0,notckd,Kidney Disease
+1240,70.0,,60.0,228.0,0.0,notckd,Kidney Disease
+1243,58.0,,80.0,228.0,0.0,notckd,Kidney Disease
+1246,28.0,,70.0,228.0,0.0,notckd,Kidney Disease
+1247,33.0,,60.0,228.0,0.0,notckd,Kidney Disease
+1249,59.0,,70.0,228.0,0.0,notckd,Kidney Disease
+1250,34.0,,70.0,228.0,0.0,notckd,Kidney Disease
+1252,24.0,,80.0,228.0,0.0,notckd,Kidney Disease
+1253,60.0,,60.0,228.0,0.0,notckd,Kidney Disease
+1254,25.0,,60.0,228.0,0.0,notckd,Kidney Disease
+1256,62.0,,80.0,228.0,0.0,notckd,Kidney Disease
+1257,25.0,,70.0,228.0,0.0,notckd,Kidney Disease
+1258,32.0,,70.0,228.0,0.0,notckd,Kidney Disease
+1259,63.0,,70.0,228.0,0.0,notckd,Kidney Disease
+1261,37.0,,60.0,228.0,0.0,notckd,Kidney Disease
+1262,64.0,,60.0,228.0,0.0,notckd,Kidney Disease
+1263,22.0,,60.0,228.0,0.0,notckd,Kidney Disease
+1265,43.0,,60.0,228.0,0.0,notckd,Kidney Disease
+1266,38.0,,80.0,228.0,0.0,notckd,Kidney Disease
+1267,35.0,,70.0,228.0,0.0,notckd,Kidney Disease
+1268,65.0,,70.0,228.0,0.0,notckd,Kidney Disease
+1269,29.0,,80.0,228.0,0.0,notckd,Kidney Disease
+1271,39.0,,60.0,228.0,0.0,notckd,Kidney Disease
+1272,32.0,,60.0,228.0,0.0,notckd,Kidney Disease
+1273,23.0,,60.0,228.0,0.0,notckd,Kidney Disease
+1277,74.0,,60.0,228.0,0.0,notckd,Kidney Disease
+1278,35.0,,60.0,228.0,0.0,notckd,Kidney Disease
+1281,67.0,,80.0,228.0,0.0,notckd,Kidney Disease
+1282,73.0,,80.0,228.0,0.0,notckd,Kidney Disease
+1285,68.0,,60.0,228.0,0.0,notckd,Kidney Disease
+1287,75.0,,70.0,228.0,0.0,notckd,Kidney Disease
+1288,69.0,,70.0,228.0,0.0,notckd,Kidney Disease
+1289,28.0,,60.0,228.0,0.0,notckd,Kidney Disease
+1290,72.0,,60.0,228.0,0.0,notckd,Kidney Disease
+1292,79.0,,80.0,228.0,0.0,notckd,Kidney Disease
+1293,70.0,,80.0,228.0,0.0,notckd,Kidney Disease
+1295,64.0,,70.0,228.0,0.0,notckd,Kidney Disease
+1296,71.0,,60.0,228.0,0.0,notckd,Kidney Disease
+1298,59.0,,60.0,228.0,0.0,notckd,Kidney Disease
+1301,80.0,,80.0,228.0,0.0,notckd,Kidney Disease
+1304,46.0,,70.0,228.0,0.0,notckd,Kidney Disease
+1305,15.0,,80.0,228.0,0.0,notckd,Kidney Disease
+1306,51.0,,80.0,228.0,0.0,notckd,Kidney Disease
+1309,36.0,,80.0,228.0,0.0,notckd,Kidney Disease
+1315,12.0,,80.0,228.0,0.0,notckd,Kidney Disease
+1316,17.0,,60.0,228.0,0.0,notckd,Kidney Disease
+1318,63.0,1,145.0,233.0,1.0,1,Heart Disease 300
+1319,37.0,1,130.0,250.0,0.0,1,Heart Disease 300
+1320,41.0,0,130.0,204.0,0.0,1,Heart Disease 300
+1321,56.0,1,120.0,236.0,0.0,1,Heart Disease 300
+1322,57.0,0,120.0,354.0,0.0,1,Heart Disease 300
+1323,57.0,1,140.0,192.0,0.0,1,Heart Disease 300
+1324,56.0,0,140.0,294.0,0.0,1,Heart Disease 300
+1325,44.0,1,120.0,263.0,0.0,1,Heart Disease 300
+1326,52.0,1,172.0,199.0,1.0,1,Heart Disease 300
+1327,57.0,1,150.0,168.0,0.0,1,Heart Disease 300
+1328,54.0,1,140.0,239.0,0.0,1,Heart Disease 300
+1329,48.0,0,130.0,275.0,0.0,1,Heart Disease 300
+1330,49.0,1,130.0,266.0,0.0,1,Heart Disease 300
+1331,64.0,1,110.0,211.0,0.0,1,Heart Disease 300
+1332,58.0,0,150.0,283.0,1.0,1,Heart Disease 300
+1333,50.0,0,120.0,219.0,0.0,1,Heart Disease 300
+1334,58.0,0,120.0,340.0,0.0,1,Heart Disease 300
+1335,66.0,0,150.0,226.0,0.0,1,Heart Disease 300
+1336,43.0,1,150.0,247.0,0.0,1,Heart Disease 300
+1337,69.0,0,140.0,239.0,0.0,1,Heart Disease 300
+1338,59.0,1,135.0,234.0,0.0,1,Heart Disease 300
+1339,44.0,1,130.0,233.0,0.0,1,Heart Disease 300
+1340,42.0,1,140.0,226.0,0.0,1,Heart Disease 300
+1341,61.0,1,150.0,243.0,1.0,1,Heart Disease 300
+1342,40.0,1,140.0,199.0,0.0,1,Heart Disease 300
+1343,71.0,0,160.0,302.0,0.0,1,Heart Disease 300
+1344,59.0,1,150.0,212.0,1.0,1,Heart Disease 300
+1345,51.0,1,110.0,175.0,0.0,1,Heart Disease 300
+1346,65.0,0,140.0,417.0,1.0,1,Heart Disease 300
+1347,53.0,1,130.0,197.0,1.0,1,Heart Disease 300
+1348,41.0,0,105.0,198.0,0.0,1,Heart Disease 300
+1349,65.0,1,120.0,177.0,0.0,1,Heart Disease 300
+1350,44.0,1,130.0,219.0,0.0,1,Heart Disease 300
+1351,54.0,1,125.0,273.0,0.0,1,Heart Disease 300
+1352,51.0,1,125.0,213.0,0.0,1,Heart Disease 300
+1353,46.0,0,142.0,177.0,0.0,1,Heart Disease 300
+1354,54.0,0,135.0,304.0,1.0,1,Heart Disease 300
+1355,54.0,1,150.0,232.0,0.0,1,Heart Disease 300
+1356,65.0,0,155.0,269.0,0.0,1,Heart Disease 300
+1357,65.0,0,160.0,360.0,0.0,1,Heart Disease 300
+1358,51.0,0,140.0,308.0,0.0,1,Heart Disease 300
+1359,48.0,1,130.0,245.0,0.0,1,Heart Disease 300
+1360,45.0,1,104.0,208.0,0.0,1,Heart Disease 300
+1361,53.0,0,130.0,264.0,0.0,1,Heart Disease 300
+1362,39.0,1,140.0,321.0,0.0,1,Heart Disease 300
+1363,52.0,1,120.0,325.0,0.0,1,Heart Disease 300
+1364,44.0,1,140.0,235.0,0.0,1,Heart Disease 300
+1365,47.0,1,138.0,257.0,0.0,1,Heart Disease 300
+1366,53.0,0,128.0,216.0,0.0,1,Heart Disease 300
+1367,53.0,0,138.0,234.0,0.0,1,Heart Disease 300
+1368,51.0,0,130.0,256.0,0.0,1,Heart Disease 300
+1369,66.0,1,120.0,302.0,0.0,1,Heart Disease 300
+1370,62.0,1,130.0,231.0,0.0,1,Heart Disease 300
+1371,44.0,0,108.0,141.0,0.0,1,Heart Disease 300
+1372,63.0,0,135.0,252.0,0.0,1,Heart Disease 300
+1373,52.0,1,134.0,201.0,0.0,1,Heart Disease 300
+1374,48.0,1,122.0,222.0,0.0,1,Heart Disease 300
+1375,45.0,1,115.0,260.0,0.0,1,Heart Disease 300
+1376,34.0,1,118.0,182.0,0.0,1,Heart Disease 300
+1377,57.0,0,128.0,303.0,0.0,1,Heart Disease 300
+1378,71.0,0,110.0,265.0,1.0,1,Heart Disease 300
+1379,54.0,1,108.0,309.0,0.0,1,Heart Disease 300
+1380,52.0,1,118.0,186.0,0.0,1,Heart Disease 300
+1381,41.0,1,135.0,203.0,0.0,1,Heart Disease 300
+1382,58.0,1,140.0,211.0,1.0,1,Heart Disease 300
+1383,35.0,0,138.0,183.0,0.0,1,Heart Disease 300
+1384,51.0,1,100.0,222.0,0.0,1,Heart Disease 300
+1385,45.0,0,130.0,234.0,0.0,1,Heart Disease 300
+1386,44.0,1,120.0,220.0,0.0,1,Heart Disease 300
+1387,62.0,0,124.0,209.0,0.0,1,Heart Disease 300
+1388,54.0,1,120.0,258.0,0.0,1,Heart Disease 300
+1389,51.0,1,94.0,227.0,0.0,1,Heart Disease 300
+1390,29.0,1,130.0,204.0,0.0,1,Heart Disease 300
+1391,51.0,1,140.0,261.0,0.0,1,Heart Disease 300
+1392,43.0,0,122.0,213.0,0.0,1,Heart Disease 300
+1393,55.0,0,135.0,250.0,0.0,1,Heart Disease 300
+1394,51.0,1,125.0,245.0,1.0,1,Heart Disease 300
+1395,59.0,1,140.0,221.0,0.0,1,Heart Disease 300
+1396,52.0,1,128.0,205.0,1.0,1,Heart Disease 300
+1397,58.0,1,105.0,240.0,0.0,1,Heart Disease 300
+1398,41.0,1,112.0,250.0,0.0,1,Heart Disease 300
+1399,45.0,1,128.0,308.0,0.0,1,Heart Disease 300
+1400,60.0,0,102.0,318.0,0.0,1,Heart Disease 300
+1401,52.0,1,152.0,298.0,1.0,1,Heart Disease 300
+1402,42.0,0,102.0,265.0,0.0,1,Heart Disease 300
+1403,67.0,0,115.0,564.0,0.0,1,Heart Disease 300
+1404,68.0,1,118.0,277.0,0.0,1,Heart Disease 300
+1405,46.0,1,101.0,197.0,1.0,1,Heart Disease 300
+1406,54.0,0,110.0,214.0,0.0,1,Heart Disease 300
+1407,58.0,0,100.0,248.0,0.0,1,Heart Disease 300
+1408,48.0,1,124.0,255.0,1.0,1,Heart Disease 300
+1409,57.0,1,132.0,207.0,0.0,1,Heart Disease 300
+1410,52.0,1,138.0,223.0,0.0,1,Heart Disease 300
+1411,54.0,0,132.0,288.0,1.0,1,Heart Disease 300
+1412,45.0,0,112.0,160.0,0.0,1,Heart Disease 300
+1413,53.0,1,142.0,226.0,0.0,1,Heart Disease 300
+1414,62.0,0,140.0,394.0,0.0,1,Heart Disease 300
+1415,52.0,1,108.0,233.0,1.0,1,Heart Disease 300
+1416,43.0,1,130.0,315.0,0.0,1,Heart Disease 300
+1417,53.0,1,130.0,246.0,1.0,1,Heart Disease 300
+1418,42.0,1,148.0,244.0,0.0,1,Heart Disease 300
+1419,59.0,1,178.0,270.0,0.0,1,Heart Disease 300
+1420,63.0,0,140.0,195.0,0.0,1,Heart Disease 300
+1421,42.0,1,120.0,240.0,1.0,1,Heart Disease 300
+1422,50.0,1,129.0,196.0,0.0,1,Heart Disease 300
+1423,68.0,0,120.0,211.0,0.0,1,Heart Disease 300
+1424,69.0,1,160.0,234.0,1.0,1,Heart Disease 300
+1425,45.0,0,138.0,236.0,0.0,1,Heart Disease 300
+1426,50.0,0,120.0,244.0,0.0,1,Heart Disease 300
+1427,50.0,0,110.0,254.0,0.0,1,Heart Disease 300
+1428,64.0,0,180.0,325.0,0.0,1,Heart Disease 300
+1429,57.0,1,150.0,126.0,1.0,1,Heart Disease 300
+1430,64.0,0,140.0,313.0,0.0,1,Heart Disease 300
+1431,43.0,1,110.0,211.0,0.0,1,Heart Disease 300
+1432,55.0,1,130.0,262.0,0.0,1,Heart Disease 300
+1433,37.0,0,120.0,215.0,0.0,1,Heart Disease 300
+1434,41.0,1,130.0,214.0,0.0,1,Heart Disease 300
+1435,56.0,1,120.0,193.0,0.0,1,Heart Disease 300
+1436,46.0,0,105.0,204.0,0.0,1,Heart Disease 300
+1437,46.0,0,138.0,243.0,0.0,1,Heart Disease 300
+1438,64.0,0,130.0,303.0,0.0,1,Heart Disease 300
+1439,59.0,1,138.0,271.0,0.0,1,Heart Disease 300
+1440,41.0,0,112.0,268.0,0.0,1,Heart Disease 300
+1441,54.0,0,108.0,267.0,0.0,1,Heart Disease 300
+1442,39.0,0,94.0,199.0,0.0,1,Heart Disease 300
+1443,34.0,0,118.0,210.0,0.0,1,Heart Disease 300
+1444,47.0,1,112.0,204.0,0.0,1,Heart Disease 300
+1445,67.0,0,152.0,277.0,0.0,1,Heart Disease 300
+1446,52.0,0,136.0,196.0,0.0,1,Heart Disease 300
+1447,74.0,0,120.0,269.0,0.0,1,Heart Disease 300
+1448,54.0,0,160.0,201.0,0.0,1,Heart Disease 300
+1449,49.0,0,134.0,271.0,0.0,1,Heart Disease 300
+1450,42.0,1,120.0,295.0,0.0,1,Heart Disease 300
+1451,41.0,1,110.0,235.0,0.0,1,Heart Disease 300
+1452,41.0,0,126.0,306.0,0.0,1,Heart Disease 300
+1453,49.0,0,130.0,269.0,0.0,1,Heart Disease 300
+1454,60.0,0,120.0,178.0,1.0,1,Heart Disease 300
+1455,62.0,1,128.0,208.0,1.0,1,Heart Disease 300
+1456,57.0,1,110.0,201.0,0.0,1,Heart Disease 300
+1457,64.0,1,128.0,263.0,0.0,1,Heart Disease 300
+1458,51.0,0,120.0,295.0,0.0,1,Heart Disease 300
+1459,43.0,1,115.0,303.0,0.0,1,Heart Disease 300
+1460,42.0,0,120.0,209.0,0.0,1,Heart Disease 300
+1461,67.0,0,106.0,223.0,0.0,1,Heart Disease 300
+1462,76.0,0,140.0,197.0,0.0,1,Heart Disease 300
+1463,70.0,1,156.0,245.0,0.0,1,Heart Disease 300
+1464,44.0,0,118.0,242.0,0.0,1,Heart Disease 300
+1465,60.0,0,150.0,240.0,0.0,1,Heart Disease 300
+1466,44.0,1,120.0,226.0,0.0,1,Heart Disease 300
+1467,42.0,1,130.0,180.0,0.0,1,Heart Disease 300
+1468,66.0,1,160.0,228.0,0.0,1,Heart Disease 300
+1469,71.0,0,112.0,149.0,0.0,1,Heart Disease 300
+1470,64.0,1,170.0,227.0,0.0,1,Heart Disease 300
+1471,66.0,0,146.0,278.0,0.0,1,Heart Disease 300
+1472,39.0,0,138.0,220.0,0.0,1,Heart Disease 300
+1473,58.0,0,130.0,197.0,0.0,1,Heart Disease 300
+1474,47.0,1,130.0,253.0,0.0,1,Heart Disease 300
+1475,35.0,1,122.0,192.0,0.0,1,Heart Disease 300
+1476,58.0,1,125.0,220.0,0.0,1,Heart Disease 300
+1477,56.0,1,130.0,221.0,0.0,1,Heart Disease 300
+1478,56.0,1,120.0,240.0,0.0,1,Heart Disease 300
+1479,55.0,0,132.0,342.0,0.0,1,Heart Disease 300
+1480,41.0,1,120.0,157.0,0.0,1,Heart Disease 300
+1481,38.0,1,138.0,175.0,0.0,1,Heart Disease 300
+1483,67.0,1,160.0,286.0,0.0,0,Heart Disease 300
+1484,67.0,1,120.0,229.0,0.0,0,Heart Disease 300
+1485,62.0,0,140.0,268.0,0.0,0,Heart Disease 300
+1486,63.0,1,130.0,254.0,0.0,0,Heart Disease 300
+1487,53.0,1,140.0,203.0,1.0,0,Heart Disease 300
+1488,56.0,1,130.0,256.0,1.0,0,Heart Disease 300
+1489,48.0,1,110.0,229.0,0.0,0,Heart Disease 300
+1490,58.0,1,120.0,284.0,0.0,0,Heart Disease 300
+1491,58.0,1,132.0,224.0,0.0,0,Heart Disease 300
+1492,60.0,1,130.0,206.0,0.0,0,Heart Disease 300
+1493,40.0,1,110.0,167.0,0.0,0,Heart Disease 300
+1494,60.0,1,117.0,230.0,1.0,0,Heart Disease 300
+1495,64.0,1,140.0,335.0,0.0,0,Heart Disease 300
+1496,43.0,1,120.0,177.0,0.0,0,Heart Disease 300
+1497,57.0,1,150.0,276.0,0.0,0,Heart Disease 300
+1498,55.0,1,132.0,353.0,0.0,0,Heart Disease 300
+1499,65.0,0,150.0,225.0,0.0,0,Heart Disease 300
+1500,61.0,0,130.0,330.0,0.0,0,Heart Disease 300
+1501,58.0,1,112.0,230.0,0.0,0,Heart Disease 300
+1502,50.0,1,150.0,243.0,0.0,0,Heart Disease 300
+1503,44.0,1,112.0,290.0,0.0,0,Heart Disease 300
+1504,60.0,1,130.0,253.0,0.0,0,Heart Disease 300
+1505,54.0,1,124.0,266.0,0.0,0,Heart Disease 300
+1506,50.0,1,140.0,233.0,0.0,0,Heart Disease 300
+1507,41.0,1,110.0,172.0,0.0,0,Heart Disease 300
+1508,51.0,0,130.0,305.0,0.0,0,Heart Disease 300
+1509,58.0,1,128.0,216.0,0.0,0,Heart Disease 300
+1510,54.0,1,120.0,188.0,0.0,0,Heart Disease 300
+1511,60.0,1,145.0,282.0,0.0,0,Heart Disease 300
+1512,60.0,1,140.0,185.0,0.0,0,Heart Disease 300
+1513,59.0,1,170.0,326.0,0.0,0,Heart Disease 300
+1514,46.0,1,150.0,231.0,0.0,0,Heart Disease 300
+1515,67.0,1,125.0,254.0,1.0,0,Heart Disease 300
+1516,62.0,1,120.0,267.0,0.0,0,Heart Disease 300
+1517,65.0,1,110.0,248.0,0.0,0,Heart Disease 300
+1518,44.0,1,110.0,197.0,0.0,0,Heart Disease 300
+1519,60.0,1,125.0,258.0,0.0,0,Heart Disease 300
+1520,58.0,1,150.0,270.0,0.0,0,Heart Disease 300
+1521,68.0,1,180.0,274.0,1.0,0,Heart Disease 300
+1522,62.0,0,160.0,164.0,0.0,0,Heart Disease 300
+1523,52.0,1,128.0,255.0,0.0,0,Heart Disease 300
+1524,59.0,1,110.0,239.0,0.0,0,Heart Disease 300
+1525,60.0,0,150.0,258.0,0.0,0,Heart Disease 300
+1526,49.0,1,120.0,188.0,0.0,0,Heart Disease 300
+1527,59.0,1,140.0,177.0,0.0,0,Heart Disease 300
+1528,57.0,1,128.0,229.0,0.0,0,Heart Disease 300
+1529,61.0,1,120.0,260.0,0.0,0,Heart Disease 300
+1530,39.0,1,118.0,219.0,0.0,0,Heart Disease 300
+1531,61.0,0,145.0,307.0,0.0,0,Heart Disease 300
+1532,56.0,1,125.0,249.0,1.0,0,Heart Disease 300
+1533,43.0,0,132.0,341.0,1.0,0,Heart Disease 300
+1534,62.0,0,130.0,263.0,0.0,0,Heart Disease 300
+1535,63.0,1,130.0,330.0,1.0,0,Heart Disease 300
+1536,65.0,1,135.0,254.0,0.0,0,Heart Disease 300
+1537,48.0,1,130.0,256.0,1.0,0,Heart Disease 300
+1538,63.0,0,150.0,407.0,0.0,0,Heart Disease 300
+1539,55.0,1,140.0,217.0,0.0,0,Heart Disease 300
+1540,65.0,1,138.0,282.0,1.0,0,Heart Disease 300
+1541,56.0,0,200.0,288.0,1.0,0,Heart Disease 300
+1542,54.0,1,110.0,239.0,0.0,0,Heart Disease 300
+1543,70.0,1,145.0,174.0,0.0,0,Heart Disease 300
+1544,62.0,1,120.0,281.0,0.0,0,Heart Disease 300
+1545,35.0,1,120.0,198.0,0.0,0,Heart Disease 300
+1546,59.0,1,170.0,288.0,0.0,0,Heart Disease 300
+1547,64.0,1,125.0,309.0,0.0,0,Heart Disease 300
+1548,47.0,1,108.0,243.0,0.0,0,Heart Disease 300
+1549,57.0,1,165.0,289.0,1.0,0,Heart Disease 300
+1550,55.0,1,160.0,289.0,0.0,0,Heart Disease 300
+1551,64.0,1,120.0,246.0,0.0,0,Heart Disease 300
+1552,70.0,1,130.0,322.0,0.0,0,Heart Disease 300
+1553,51.0,1,140.0,299.0,0.0,0,Heart Disease 300
+1554,58.0,1,125.0,300.0,0.0,0,Heart Disease 300
+1555,60.0,1,140.0,293.0,0.0,0,Heart Disease 300
+1556,77.0,1,125.0,304.0,0.0,0,Heart Disease 300
+1557,35.0,1,126.0,282.0,0.0,0,Heart Disease 300
+1558,70.0,1,160.0,269.0,0.0,0,Heart Disease 300
+1559,59.0,0,174.0,249.0,0.0,0,Heart Disease 300
+1560,64.0,1,145.0,212.0,0.0,0,Heart Disease 300
+1561,57.0,1,152.0,274.0,0.0,0,Heart Disease 300
+1562,56.0,1,132.0,184.0,0.0,0,Heart Disease 300
+1563,48.0,1,124.0,274.0,0.0,0,Heart Disease 300
+1564,56.0,0,134.0,409.0,0.0,0,Heart Disease 300
+1565,66.0,1,160.0,246.0,0.0,0,Heart Disease 300
+1566,54.0,1,192.0,283.0,0.0,0,Heart Disease 300
+1567,69.0,1,140.0,254.0,0.0,0,Heart Disease 300
+1568,51.0,1,140.0,298.0,0.0,0,Heart Disease 300
+1569,43.0,1,132.0,247.0,1.0,0,Heart Disease 300
+1570,62.0,0,138.0,294.0,1.0,0,Heart Disease 300
+1571,67.0,1,100.0,299.0,0.0,0,Heart Disease 300
+1572,59.0,1,160.0,273.0,0.0,0,Heart Disease 300
+1573,45.0,1,142.0,309.0,0.0,0,Heart Disease 300
+1574,58.0,1,128.0,259.0,0.0,0,Heart Disease 300
+1575,50.0,1,144.0,200.0,0.0,0,Heart Disease 300
+1576,62.0,0,150.0,244.0,0.0,0,Heart Disease 300
+1577,38.0,1,120.0,231.0,0.0,0,Heart Disease 300
+1578,66.0,0,178.0,228.0,1.0,0,Heart Disease 300
+1579,52.0,1,112.0,230.0,0.0,0,Heart Disease 300
+1580,53.0,1,123.0,282.0,0.0,0,Heart Disease 300
+1581,63.0,0,108.0,269.0,0.0,0,Heart Disease 300
+1582,54.0,1,110.0,206.0,0.0,0,Heart Disease 300
+1583,66.0,1,112.0,212.0,0.0,0,Heart Disease 300
+1584,55.0,0,180.0,327.0,0.0,0,Heart Disease 300
+1585,49.0,1,118.0,149.0,0.0,0,Heart Disease 300
+1586,54.0,1,122.0,286.0,0.0,0,Heart Disease 300
+1587,56.0,1,130.0,283.0,1.0,0,Heart Disease 300
+1588,46.0,1,120.0,249.0,0.0,0,Heart Disease 300
+1589,61.0,1,134.0,234.0,0.0,0,Heart Disease 300
+1590,67.0,1,120.0,237.0,0.0,0,Heart Disease 300
+1591,58.0,1,100.0,234.0,0.0,0,Heart Disease 300
+1592,47.0,1,110.0,275.0,0.0,0,Heart Disease 300
+1593,52.0,1,125.0,212.0,0.0,0,Heart Disease 300
+1594,58.0,1,146.0,218.0,0.0,0,Heart Disease 300
+1595,57.0,1,124.0,261.0,0.0,0,Heart Disease 300
+1596,58.0,0,136.0,319.0,1.0,0,Heart Disease 300
+1597,61.0,1,138.0,166.0,0.0,0,Heart Disease 300
+1598,42.0,1,136.0,315.0,0.0,0,Heart Disease 300
+1599,52.0,1,128.0,204.0,1.0,0,Heart Disease 300
+1600,59.0,1,126.0,218.0,1.0,0,Heart Disease 300
+1601,40.0,1,152.0,223.0,0.0,0,Heart Disease 300
+1602,61.0,1,140.0,207.0,0.0,0,Heart Disease 300
+1603,46.0,1,140.0,311.0,0.0,0,Heart Disease 300
+1604,59.0,1,134.0,204.0,0.0,0,Heart Disease 300
+1605,57.0,1,154.0,232.0,0.0,0,Heart Disease 300
+1606,57.0,1,110.0,335.0,0.0,0,Heart Disease 300
+1607,55.0,0,128.0,205.0,0.0,0,Heart Disease 300
+1608,61.0,1,148.0,203.0,0.0,0,Heart Disease 300
+1609,58.0,1,114.0,318.0,0.0,0,Heart Disease 300
+1610,58.0,0,170.0,225.0,1.0,0,Heart Disease 300
+1611,67.0,1,152.0,212.0,0.0,0,Heart Disease 300
+1612,44.0,1,120.0,169.0,0.0,0,Heart Disease 300
+1613,63.0,1,140.0,187.0,0.0,0,Heart Disease 300
+1614,63.0,0,124.0,197.0,0.0,0,Heart Disease 300
+1615,59.0,1,164.0,176.0,1.0,0,Heart Disease 300
+1616,57.0,0,140.0,241.0,0.0,0,Heart Disease 300
+1617,45.0,1,110.0,264.0,0.0,0,Heart Disease 300
+1618,68.0,1,144.0,193.0,1.0,0,Heart Disease 300
+1619,57.0,1,130.0,131.0,0.0,0,Heart Disease 300
+1620,57.0,0,130.0,236.0,0.0,0,Heart Disease 300
