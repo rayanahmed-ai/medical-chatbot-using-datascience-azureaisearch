@@ -2,7 +2,7 @@ import os
 import json
 import csv
 import re
-apikey="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"
+apikey=os.getenv("Openrouter_api_key")
 from langchain_openai import ChatOpenAI
 model_name = "nex-agi/deepseek-v3.1-nex-n1:free"
 base_url = "https://openrouter.ai/api/v1"
@@ -73,5 +73,6 @@ with open(csv_file, mode="w", newline="", encoding="utf-8") as f:
     writer.writerows(qa_list)
 
 print(f"Saved {len(qa_list)} Q&A pairs to {csv_file}")
+
 
     
