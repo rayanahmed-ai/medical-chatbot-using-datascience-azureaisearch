@@ -1,7 +1,4 @@
-Here is a **clean, professional README.md** you can directly drop into your GitHub repo.
-It’s written at a **research-intern / national-lab level**, not student fluff.
 
----
 
 # ❤️ Heart Disease Semantic Retrieval using Azure AI Search & LLMs
 
